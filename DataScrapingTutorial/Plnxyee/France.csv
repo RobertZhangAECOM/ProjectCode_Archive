@@ -1,0 +1,1001 @@
+Ticker,Company Name,Currency,Exchange,Country/Region,Type,Price,Avg Vol
+MC FP Equity,LVMH Moet Hennessy Louis Vuitton SE,EUR,FP,FR,Common Stock,606.7,474578.3
+AF FP Equity,Air France-KLM,EUR,FP,FR,Common Stock,1.7565,11605200
+BNP FP Equity,BNP Paribas SA,EUR,FP,FR,Common Stock,53.51,3613808
+EAPI FP Equity,Euroapi SA,EUR,FP,FR,Common Stock,13.73,#N/A N/A
+TTE FP Equity,TotalEnergies SE,EUR,FP,FR,Common Stock,54.6,6957093
+GLE FP Equity,Societe Generale SA,EUR,FP,FR,Common Stock,25.455,4535127
+ORP FP Equity,Orpea SA,EUR,FP,FR,Common Stock,25.66,1071442
+SAN FP Equity,Sanofi,EUR,FP,FR,Common Stock,100.36,2246449
+ALO FP Equity,Alstom SA,EUR,FP,FR,Common Stock,25.93,2016069
+KER FP Equity,Kering SA,EUR,FP,FR,Common Stock,515.3,266691.2
+OR FP Equity,L'Oreal SA,EUR,FP,FR,Common Stock,325.95,506130.6
+UBI FP Equity,Ubisoft Entertainment SA,EUR,FP,FR,Common Stock,48.5,844511.1
+AIR FP Equity,Airbus SE,EUR,FP,FR,Common Stock,109.5,1527254
+EDF FP Equity,Electricite de France SA,EUR,FP,FR,Common Stock,8.258,3387457
+SU FP Equity,Schneider Electric SE,EUR,FP,FR,Common Stock,128.74,1026220
+ENGI FP Equity,Engie SA,EUR,FP,FR,Common Stock,12.584,7001480
+RMS FP Equity,Hermes International,EUR,FP,FR,Common Stock,1112.5,83295.77
+VIE FP Equity,Veolia Environnement SA,EUR,FP,FR,Common Stock,26.3,1973507
+EL FP Equity,EssilorLuxottica SA,EUR,FP,FR,Common Stock,150.1,566994.2
+CS FP Equity,AXA SA,EUR,FP,FR,Common Stock,23.715,5837243
+AI FP Equity,Air Liquide SA,EUR,FP,FR,Common Stock,161.68,758093.8
+ACA FP Equity,Credit Agricole SA,EUR,FP,FR,Common Stock,10.26,8202251
+CA FP Equity,Carrefour SA,EUR,FP,FR,Common Stock,19.305,3462080
+DG FP Equity,Vinci SA,EUR,FP,FR,Common Stock,90.23,1196315
+VK FP Equity,Vallourec SA,EUR,FP,FR,Common Stock,13.065,1456990
+BN FP Equity,Danone SA,EUR,FP,FR,Common Stock,55.23,1689522
+ORA FP Equity,Orange SA,EUR,FP,FR,Common Stock,11.672,7237270
+RNO FP Equity,Renault SA,EUR,FP,FR,Common Stock,26.535,1636639
+SGO FP Equity,Cie de Saint-Gobain,EUR,FP,FR,Common Stock,55.39,1184291
+SAF FP Equity,Safran SA,EUR,FP,FR,Common Stock,97.58,781073.3
+EO FP Equity,Faurecia SE,EUR,FP,FR,Common Stock,26.16,1748203
+ML FP Equity,Cie Generale des Etablissements Michelin SCA,EUR,FP,FR,Common Stock,122.05,426928
+DSY FP Equity,Dassault Systemes SE,EUR,FP,FR,Common Stock,38.945,1372974
+RI FP Equity,Pernod Ricard SA,EUR,FP,FR,Common Stock,183.05,400499
+ELIOR FP Equity,Elior Group SA,EUR,FP,FR,Common Stock,2.846,1216806
+ELIS FP Equity,Elis SA,EUR,FP,FR,Common Stock,14.51,311887.8
+ATO FP Equity,Atos SE,EUR,FP,FR,Common Stock,23.93,921569.8
+GTT FP Equity,Gaztransport Et Technigaz SA,EUR,FP,FR,Common Stock,122.7,101481.2
+WLN FP Equity,Worldline SA/France,EUR,FP,FR,Common Stock,38.15,814840.3
+AC FP Equity,Accor SA,EUR,FP,FR,Common Stock,30.7,676727.1
+CAP FP Equity,Capgemini SE,EUR,FP,FR,Common Stock,177.25,326624
+TEP FP Equity,Teleperformance,EUR,FP,FR,Common Stock,305.8,120179.1
+HO FP Equity,Thales SA,EUR,FP,FR,Common Stock,114.7,414967.7
+PUB FP Equity,Publicis Groupe SA,EUR,FP,FR,Common Stock,51.96,773523.6
+VIV FP Equity,Vivendi SE,EUR,FP,FR,Common Stock,11.155,3324370
+CO FP Equity,Casino Guichard Perrachon SA,EUR,FP,FR,Common Stock,18.1,284965.5
+EN FP Equity,Bouygues SA,EUR,FP,FR,Common Stock,32.21,1125161
+AMUN FP Equity,Amundi SA,EUR,FP,FR,Common Stock,54.55,237421.7
+SW FP Equity,Sodexo SA,EUR,FP,FR,Common Stock,70.4,256530
+VLA FP Equity,Valneva SE,EUR,FP,FR,Common Stock,11.52,809132.1
+FR FP Equity,Valeo,EUR,FP,FR,Common Stock,20.74,1259717
+GET FP Equity,Getlink SE,EUR,FP,FR,Common Stock,17.965,935126.1
+FGR FP Equity,Eiffage SA,EUR,FP,FR,Common Stock,91.84,229025
+MDM FP Equity,Maisons du Monde SA,EUR,FP,FR,Common Stock,12.7,117611.6
+DIM FP Equity,Sartorius Stedim Biotech,EUR,FP,FR,Common Stock,314.4,60403.87
+ADP FP Equity,Aeroports de Paris,EUR,FP,FR,Common Stock,140.55,79280.16
+SCR FP Equity,SCOR SE,EUR,FP,FR,Common Stock,24.63,378206
+EDEN FP Equity,Edenred,EUR,FP,FR,Common Stock,45.09,562492.1
+RXL FP Equity,Rexel SA,EUR,FP,FR,Common Stock,20.08,914099
+AKE FP Equity,Arkema SA,EUR,FP,FR,Common Stock,113.35,160228.4
+TE FP Equity,Technip Energies NV,EUR,FP,FR,Common Stock,12.57,536163.5
+LHYFE FP Equity,Lhyfe SAS,EUR,FP,FR,Common Stock,8.4,#N/A N/A
+LR FP Equity,Legrand SA,EUR,FP,FR,Common Stock,79.96,520667.4
+SOI FP Equity,SOITEC,EUR,FP,FR,Common Stock,171.3,66470.73
+KORI FP Equity,Korian SA,EUR,FP,FR,Common Stock,19.52,179902.9
+VRLA FP Equity,Verallia SA,EUR,FP,FR,Common Stock,26.16,112432.9
+NEX FP Equity,Nexans SA,EUR,FP,FR,Common Stock,93.7,64686.07
+CNP FP Equity,CNP Assurances,EUR,FP,FR,Common Stock,20.92,948666.1
+NEOEN FP Equity,Neoen SA,EUR,FP,FR,Common Stock,38.89,156104.7
+ABIO FP Equity,Albioma SA,EUR,FP,FR,Common Stock,50,237832
+RCO FP Equity,Remy Cointreau SA,EUR,FP,FR,Common Stock,172.2,75799.5
+SPIE FP Equity,SPIE SA,EUR,FP,FR,Common Stock,22.18,241041.6
+SK FP Equity,SEB SA,EUR,FP,FR,Common Stock,100.1,103336.1
+MMB FP Equity,Lagardere SA,EUR,FP,FR,Common Stock,25,87406.03
+DBG FP Equity,Derichebourg SA,EUR,FP,FR,Common Stock,7.49,325302.4
+BIM FP Equity,BioMerieux,EUR,FP,FR,Common Stock,96.36,106255
+BVI FP Equity,Bureau Veritas SA,EUR,FP,FR,Common Stock,26.64,726882.8
+TRI FP Equity,Trigano SA,EUR,FP,FR,Common Stock,120.9,22393.6
+BOL FP Equity,Bollore SE,EUR,FP,FR,Common Stock,4.94,2509792
+RUI FP Equity,Rubis SCA,EUR,FP,FR,Common Stock,28.28,204761.3
+ANTIN FP Equity,Antin Infrastructure Partners SA,EUR,FP,FR,Common Stock,29,84948.47
+CSTM US Equity,Constellium SE,USD,US,FR,Common Stock,16.89,930985.125
+AM FP Equity,Dassault Aviation SA,EUR,FP,FR,Common Stock,159.6,68519.47
+OVH FP Equity,OVH Groupe SAS,EUR,FP,FR,Common Stock,18.88,97876.16
+COFA FP Equity,Coface SA,EUR,FP,FR,Common Stock,11.09,360620.4
+BB FP Equity,Societe BIC SA,EUR,FP,FR,Common Stock,53.75,56718.63
+ERA FP Equity,Eramet SA,EUR,FP,FR,Common Stock,141.3,75345.5
+TCH FP Equity,Technicolor SA,EUR,FP,FR,Common Stock,3.556,378134
+RF FP Equity,Eurazeo SE,EUR,FP,FR,Common Stock,71.95,122588.3
+DEC FP Equity,JCDecaux SA,EUR,FP,FR,Common Stock,18.74,133820.6
+FDJ FP Equity,La Francaise des Jeux SAEM,EUR,FP,FR,Common Stock,33.77,249567.7
+ETL FP Equity,Eutelsat Communications SA,EUR,FP,FR,Common Stock,11.16,393465.8
+EUCAR FP Equity,Europcar Mobility Group,EUR,FP,FR,Common Stock,0.5072,1738728
+POM FP Equity,Cie Plastic Omnium SA,EUR,FP,FR,Common Stock,17.92,156823.7
+SO FP Equity,Somfy SA,EUR,FP,FR,Common Stock,138.4,17959.6
+ATE FP Equity,Alten SA,EUR,FP,FR,Common Stock,123.8,32465.7
+IPN FP Equity,Ipsen SA,EUR,FP,FR,Common Stock,94.3,102017.7
+CGG FP Equity,CGG SA,EUR,FP,FR,Common Stock,1.062,10842970
+VLTSA FP Equity,Voltalia SA,EUR,FP,FR,Common Stock,21.3,46388.4
+SEV FP Equity,Suez SA,EUR,FP,FR,Common Stock,#N/A N/A,0
+TKO FP Equity,Tikehau Capital SCA,EUR,FP,FR,Common Stock,21.1,20582.67
+ROTH FP Equity,Rothschild & Co,EUR,FP,FR,Common Stock,36.8,20339.33
+CDI FP Equity,Christian Dior SE,EUR,FP,FR,Common Stock,586.5,7079.567
+IPS FP Equity,IPSOS,EUR,FP,FR,Common Stock,46.25,49512.9
+ALESK FP Equity,Esker SA,EUR,FP,FR,Common Stock,147.7,14017.1
+NXI FP Equity,Nexity SA,EUR,FP,FR,Common Stock,27.08,98858.6
+BEN FP Equity,Beneteau SA,EUR,FP,FR,Common Stock,11.82,116596.3
+SOP FP Equity,Sopra Steria Group SACA,EUR,FP,FR,Common Stock,164.1,21310.6
+NK FP Equity,Imerys SA,EUR,FP,FR,Common Stock,34.44,66854.87
+FNAC FP Equity,Fnac Darty SA,EUR,FP,FR,Common Stock,45.1,49335.4
+ALD FP Equity,ALD SA,EUR,FP,FR,Common Stock,13,126877.4
+ARAMI FP Equity,Aramis Group SAS,EUR,FP,FR,Common Stock,5.63,117830.4
+MF FP Equity,Wendel SE,EUR,FP,FR,Common Stock,95.8,59523.17
+KN FP Equity,Natixis SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+TFI FP Equity,Television Francaise 1,EUR,FP,FR,Common Stock,7.845,265412.8
+MCPHY FP Equity,McPhy Energy SA,EUR,FP,FR,Common Stock,15.65,122062.8
+ES FP Equity,Esso SA Francaise,EUR,FP,FR,Common Stock,55,76861.1
+SESL FP Equity,SES-imagotag SA,EUR,FP,FR,Common Stock,86.3,7021
+EXN FP Equity,Exclusive Networks SA,EUR,FP,FR,Common Stock,17.32,4156.5
+FDE FP Equity,Francaise Energie,EUR,FP,FR,Common Stock,52.4,25926.3
+VIRP FP Equity,Virbac SA,EUR,FP,FR,Common Stock,380.5,5937.8
+IDL FP Equity,ID Logistics Group,EUR,FP,FR,Common Stock,280,2284.833
+LSS FP Equity,Lectra,EUR,FP,FR,Common Stock,36.05,18924.5
+QDT FP Equity,Quadient SA,EUR,FP,FR,Common Stock,19.9,43137.43
+WAGA FP Equity,Waga Energy SA,EUR,FP,FR,Common Stock,35.45,13100.9
+BLV FP Equity,Believe SA,EUR,FP,FR,Common Stock,9.6,36966.6
+MMT FP Equity,Metropole Television SA,EUR,FP,FR,Common Stock,16.41,83316.87
+ILD FP Equity,Iliad SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+KOF FP Equity,Kaufman & Broad SA,EUR,FP,FR,Common Stock,26.45,35650.93
+CRI FP Equity,Chargeurs SA,EUR,FP,FR,Common Stock,18.47,33740.27
+RAL FP Equity,Rallye SA,EUR,FP,FR,Common Stock,3.92,54477.4
+CDA FP Equity,Cie des Alpes,EUR,FP,FR,Common Stock,15.82,41875.87
+I2PO FP Equity,I2PO SA,EUR,FP,FR,Common Stock,9.6,4908.4
+ABVX FP Equity,Abivax SA,EUR,FP,FR,Common Stock,17.08,16226.6
+ITP FP Equity,Interparfums SA,EUR,FP,FR,Common Stock,51.9,28007.53
+CLA FP Equity,Claranova SE,EUR,FP,FR,Common Stock,3.362,218344.3
+WAVE FP Equity,Wavestone,EUR,FP,FR,Common Stock,49.2,22531.93
+ALCRB FP Equity,Carbios SACA,EUR,FP,FR,Common Stock,34.9,17760.17
+LVMHF US Equity,LVMH Moet Hennessy Louis Vuitton SE,USD,US,FR,Common Stock,648.24,1244.133301
+SMCP FP Equity,SMCP SA,EUR,FP,FR,Common Stock,6.48,123606.6
+ALDR FP Equity,Delta Drone,EUR,FP,FR,Common Stock,4.84,23420.92
+FII FP Equity,LISI,EUR,FP,FR,Common Stock,20.45,22869.17
+VCT FP Equity,Vicat SA,EUR,FP,FR,Common Stock,28.75,39461.1
+PHA FP Equity,Equasens,EUR,FP,FR,Common Stock,82.1,5929.367
+MRN FP Equity,Mersen SA,EUR,FP,FR,Common Stock,32.7,17106.47
+RBT FP Equity,Robertet SA,EUR,FP,FR,Common Stock,929,494.3
+NACON FP Equity,Nacon SA,EUR,FP,FR,Common Stock,5.82,46219.3
+TFF FP Equity,TFF Group,EUR,FP,FR,Common Stock,31.7,4248.033
+SCHP FP Equity,Seche Environnement SA,EUR,FP,FR,Common Stock,78,4247.3
+ASY FP Equity,Assystem SA,EUR,FP,FR,Common Stock,37.3,2013.467
+RIN FP Equity,Vilmorin & Cie SA,EUR,FP,FR,Common Stock,44.15,5674.7
+ODET FP Equity,Cie de L'Odet SE,EUR,FP,FR,Common Stock,1202,499.8333
+ALHGR FP Equity,Hoffmann Green Cement Technologies SAS,EUR,FP,FR,Common Stock,16,7600.267
+BON FP Equity,Bonduelle SCA,EUR,FP,FR,Common Stock,16.8,17713.7
+JCQ FP Equity,Jacquet Metals SACA,EUR,FP,FR,Common Stock,20.1,20444.1
+TKTT FP Equity,Tarkett SA,EUR,FP,FR,Common Stock,13.3,3590.2
+CAS FP Equity,Cast SA,EUR,FP,FR,Common Stock,7.56,21964.17
+AUB FP Equity,Aubay,EUR,FP,FR,Common Stock,56,6086.667
+BIG FP Equity,Bigben Interactive,EUR,FP,FR,Common Stock,16.8,27862.33
+GBT FP Equity,Guerbet,EUR,FP,FR,Common Stock,26.1,23365.33
+DBV FP Equity,DBV Technologies SA,EUR,FP,FR,Common Stock,2.956,133667.8
+ATEME FP Equity,ATEME SA,EUR,FP,FR,Common Stock,14.22,7371.233
+ALBFR FP Equity,Sidetrade,EUR,FP,FR,Common Stock,148,1802.167
+LOUP FP Equity,Societe LDC SA,EUR,FP,FR,Common Stock,93.8,1320.533
+ALCLS FP Equity,Cellectis SA,EUR,FP,FR,Common Stock,3.28,358393.8
+FORSE FP Equity,Forsee Power SACA,EUR,FP,FR,Common Stock,2.94,18762.83
+BLC FP Equity,Bastide le Confort Medical,EUR,FP,FR,Common Stock,36.15,3129
+ALVDM FP Equity,Voyageurs du Monde,EUR,FP,FR,Common Stock,102.4,2483.867
+UG FP Equity,Peugeot SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+SII FP Equity,Societe pour l'Informatique Industrielle,EUR,FP,FR,Common Stock,45.3,9085.5
+VETO FP Equity,Vetoquinol SA,EUR,FP,FR,Common Stock,123,2501.3
+INF FP Equity,Infotel SA,EUR,FP,FR,Common Stock,53.2,1828.9
+PEUG FP Equity,PEUGEOT INVEST,EUR,FP,FR,Common Stock,106.8,4730.933
+SAVE FP Equity,Savencia SA,EUR,FP,FR,Common Stock,62,7423.7
+NHOA FP Equity,NHOA,EUR,FP,FR,Common Stock,12.1,4530.867
+AIR GY Equity,Airbus SE,EUR,GY,FR,Common Stock,109.52,419964.1
+MAU FP Equity,Etablissements Maurel et Prom SA,EUR,FP,FR,Common Stock,4.925,578222.8
+MTU FP Equity,Manitou BF SA,EUR,FP,FR,Common Stock,21.65,30615.87
+ALPHA FP Equity,Pharnext SA,EUR,FP,FR,Common Stock,0.0097,13166730
+THEP FP Equity,Thermador Groupe,EUR,FP,FR,Common Stock,93.7,2738.467
+GDS FP Equity,Ramsay Generale de Sante,EUR,FP,FR,Common Stock,24,1668.3
+ARR FP Equity,APRR SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+LOCAL FP Equity,Solocal Group,EUR,FP,FR,Common Stock,1.024,311477.8
+ABCA FP Equity,ABC arbitrage,EUR,FP,FR,Common Stock,7.24,49487.54
+STF FP Equity,Stef SA,EUR,FP,FR,Common Stock,91,2675.567
+940 GR Equity,Euroapi SA,EUR,GR,FR,Common Stock,13.66,#N/A N/A
+GOE FP Equity,Groupe Gorge SA,EUR,FP,FR,Common Stock,17.86,13040.63
+NRO FP Equity,Neurones,EUR,FP,FR,Common Stock,36.55,3345.067
+CGM FP Equity,Cegedim SA,EUR,FP,FR,Common Stock,24.45,5274.033
+SRP FP Equity,SRP Groupe SA,EUR,FP,FR,Common Stock,1.42,177258.5
+SBT FP Equity,Oeneo SA,EUR,FP,FR,Common Stock,14.5,10463.77
+BOI FP Equity,Boiron SA,EUR,FP,FR,Common Stock,42.75,10213.47
+IPH FP Equity,Innate Pharma SA,EUR,FP,FR,Common Stock,2.832,152588.4
+AKW FP Equity,AKWEL,EUR,FP,FR,Common Stock,18.08,8386.934
+ALVIV FP Equity,Visiativ SA,EUR,FP,FR,Common Stock,34.1,3456.267
+EKI FP Equity,Ekinops SAS,EUR,FP,FR,Common Stock,6.5,24522.3
+ALLDL FP Equity,Groupe LDLC,EUR,FP,FR,Common Stock,30.35,12636.67
+GNFT FP Equity,Genfit,EUR,FP,FR,Common Stock,3.28,97719.43
+ALHRS FP Equity,Hydrogen Refueling Solutions,EUR,FP,FR,Common Stock,20.78,8580.1
+NANO FP Equity,Nanobiotix SA,EUR,FP,FR,Common Stock,4.875,38126.13
+SIGHT FP Equity,GenSight Biologics SA,EUR,FP,FR,Common Stock,2.56,146727.5
+ALDLT FP Equity,Delta Plus Group,EUR,FP,FR,Common Stock,81.7,1660.933
+METEX FP Equity,METabolic EXplorer SA,EUR,FP,FR,Common Stock,4.622,72431.93
+ALBLD FP Equity,Bilendi,EUR,FP,FR,Common Stock,27.5,5370.533
+ALCLA FP Equity,Clasquin,EUR,FP,FR,Common Stock,61.4,1888.267
+VAC FP Equity,Pierre Et Vacances SA,EUR,FP,FR,Common Stock,7,9643.434
+MAN FP Equity,Manutan International,EUR,FP,FR,Common Stock,78,685.7333
+PWG FP Equity,Prodways Group SA,EUR,FP,FR,Common Stock,2.7,33120.3
+NAVYA FP Equity,NAVYA SAS,EUR,FP,FR,Common Stock,1.54,241655.6
+ALKAL FP Equity,Kalray SADIR,EUR,FP,FR,Common Stock,23,6762.9
+CATG FP Equity,Catana Group,EUR,FP,FR,Common Stock,7.4,82220.53
+AXW FP Equity,Axway Software SA,EUR,FP,FR,Common Stock,17,5569.767
+CEN FP Equity,Groupe Crit,EUR,FP,FR,Common Stock,64.6,855.1667
+LPE FP Equity,Laurent-Perrier,EUR,FP,FR,Common Stock,92.4,530.1667
+ALAFY FP Equity,Afyren SAS,EUR,FP,FR,Common Stock,7.51,1488.233
+ALBIO FP Equity,Biosynex,EUR,FP,FR,Common Stock,16.5,33210.27
+LBIRD FP Equity,Lumibird,EUR,FP,FR,Common Stock,19.6,9437.6
+GLO FP Equity,GL Events,EUR,FP,FR,Common Stock,17.82,14693.43
+LNA FP Equity,LNA Sante SA,EUR,FP,FR,Common Stock,37.35,6283.367
+FGA FP Equity,FIGEAC-AERO,EUR,FP,FR,Common Stock,5.33,7929.033
+ALERS FP Equity,Eurobio Scientific SA,EUR,FP,FR,Common Stock,21.1,45445.54
+ALGIL FP Equity,Groupe Guillin,EUR,FP,FR,Common Stock,22.15,7137.1
+ALFOC FP Equity,Focus Entertainment,EUR,FP,FR,Common Stock,41.6,1994.4
+ALHPI FP Equity,Hopium SA,EUR,FP,FR,Common Stock,20,4689.6
+ALHAF FP Equity,Haffner Energy SA,EUR,FP,FR,Common Stock,8.136,5320.167
+AB FP Equity,AB Science SA,EUR,FP,FR,Common Stock,10.13,45253.33
+HDF FP Equity,Hydrogene de France SACA,EUR,FP,FR,Common Stock,28.5,4101
+OLG FP Equity,OL Groupe SA,EUR,FP,FR,Common Stock,2.41,21984.57
+ALCYB FP Equity,Cybergun SA,EUR,FP,FR,Common Stock,0.398,1475871
+PIG FP Equity,Haulotte Group SA,EUR,FP,FR,Common Stock,4.2,8963.366
+ALUMS FP Equity,Umanis SA,EUR,FP,FR,Common Stock,17.12,28374.77
+AAC FP Equity,Accor Acquisition Co SA,EUR,FP,FR,Common Stock,9.65,16860.6
+ALDBT FP Equity,DBT SACA,EUR,FP,FR,Common Stock,0.0232,8561207
+FALG FP Equity,Fermentalg,EUR,FP,FR,Common Stock,2.472,72561.34
+ALSTW FP Equity,Streamwide,EUR,FP,FR,Common Stock,21.2,1954.9
+IVA FP Equity,Inventiva SACA,EUR,FP,FR,Common Stock,8.59,8111.6
+ALCAR FP Equity,Carmat SA,EUR,FP,FR,Common Stock,12.3,42976.04
+ADOC FP Equity,Adocia,EUR,FP,FR,Common Stock,5.05,19447.07
+ALLIX FP Equity,Wallix Group,EUR,FP,FR,Common Stock,17.94,5623.6
+POXEL FP Equity,Poxel SA,EUR,FP,FR,Common Stock,1.974,31193.23
+SMTPC FP Equity,Societe Marseillaise du Tunnel Prado-Carenage SA,EUR,FP,FR,Common Stock,29.1,4286.033
+ALADO FP Equity,ADOMOS,EUR,FP,FR,Common Stock,0.0276,1421769
+SDG FP Equity,Synergie SE,EUR,FP,FR,Common Stock,34.65,2549.3
+PARRO FP Equity,Parrot SA,EUR,FP,FR,Common Stock,5.15,15132.57
+EXE FP Equity,Exel Industries,EUR,FP,FR,Common Stock,54.8,627.8333
+ALKEM FP Equity,Groupe Berkem SA,EUR,FP,FR,Common Stock,9.13,2586.8
+GRVO FP Equity,Graines Voltz SA,EUR,FP,FR,Common Stock,169,508.0667
+ESI FP Equity,ESI Group,EUR,FP,FR,Common Stock,63,1070.1
+ALFRE FP Equity,Freelance.com,EUR,FP,FR,Common Stock,7.34,14285.43
+EO IM Equity,Faurecia SE,EUR,IM,FR,Common Stock,26.11,40411.7
+SFR FP Equity,Altice France SA/France,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+LTA FP Equity,Altamir,EUR,FP,FR,Common Stock,25.945,5306.133
+UFF FP Equity,Union Financiere de France BQE SA,EUR,FP,FR,Common Stock,16.95,5350
+LAT FP Equity,Latecoere SACA,EUR,FP,FR,Common Stock,0.4265,103779.7
+EAPIEUR EU Equity,Euroapi SA,EUR,EU,FR,Common Stock,13.73,#N/A N/A
+RE FP Equity,Colas SA,EUR,FP,FR,Common Stock,125.5,521.6
+ALFPC FP Equity,Fountaine Pajot SA,EUR,FP,FR,Common Stock,104,517.7
+ALSEN FP Equity,Sensorion SA,EUR,FP,FR,Common Stock,0.45,67070.84
+LIN FP Equity,Linedata Services,EUR,FP,FR,Common Stock,42.2,5158.333
+ABEO FP Equity,Abeo SA,EUR,FP,FR,Common Stock,17.15,1176.433
+AYJ TH Equity,Valneva SE,EUR,TH,FR,Common Stock,11.53,170073
+VMX FP Equity,Verimatrix SA,EUR,FP,FR,Common Stock,0.786,94498.9
+SX FP Equity,CS Group SA,EUR,FP,FR,Common Stock,6.8,5334.6
+ALDNE FP Equity,Dont Nod Entertainment SA,EUR,FP,FR,Common Stock,11.9,3868.333
+ALREW FP Equity,ReWorld Media SA,EUR,FP,FR,Common Stock,6.18,58289.46
+AVT FP Equity,Avenir Telecom,EUR,FP,FR,Common Stock,0.018,66423210
+ALMDT FP Equity,MEDIAN Technologies,EUR,FP,FR,Common Stock,11.12,22764.93
+ALEUP FP Equity,Europlasma,EUR,FP,FR,Common Stock,0.0093,20892750
+ALGAU FP Equity,Gaussin,EUR,FP,FR,Common Stock,4.746,180621.6
+ALHYP FP Equity,HiPay Group SA,EUR,FP,FR,Common Stock,12.12,4380.933
+ING FP Equity,Ingenico Group SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+LVMH IM Equity,LVMH Moet Hennessy Louis Vuitton SE,EUR,IM,FR,Common Stock,606.2,602.5
+COX FP Equity,Nicox,EUR,FP,FR,Common Stock,1.782,56028.57
+TNG FP Equity,Transgene SA,EUR,FP,FR,Common Stock,2.455,27157.07
+PERR FP Equity,Gerard Perrier Industrie SA,EUR,FP,FR,Common Stock,88.4,507.5667
+IGE FP Equity,IGE + XAO,EUR,FP,FR,Common Stock,210,54.03333
+MEDCL FP Equity,Medincell SA,EUR,FP,FR,Common Stock,5.5,38002.9
+PREC FP Equity,Precia SA,EUR,FP,FR,Common Stock,33,465.8667
+TOUP FP Equity,Touax SCA-SGTR-CITE-SGT-CMTE-TAF-SLM Touage Investissments Reunies,EUR,FP,FR,Common Stock,8.6,5659.133
+ATA FP Equity,Atari SA,EUR,FP,FR,Common Stock,0.1609,984498.1
+ALNEV FP Equity,Neovacs,EUR,FP,FR,Common Stock,0.1773,285326.5
+RBO FP Equity,Roche Bobois SAS,EUR,FP,FR,Common Stock,33,626.1
+ALVER FP Equity,Vergnet SA,EUR,FP,FR,Common Stock,0.065,768560.3
+ALDRV FP Equity,Drone Volt SACA,EUR,FP,FR,Common Stock,0.0414,7378841
+ALMOU FP Equity,Moulinvest SA,EUR,FP,FR,Common Stock,61.8,3640.1
+ALVU FP Equity,Vente-Unique.Com SA,EUR,FP,FR,Common Stock,11.4,2880.133
+SFPI FP Equity,Groupe SFPI,EUR,FP,FR,Common Stock,2.85,42691.17
+NRG FP Equity,NRJ Group,EUR,FP,FR,Common Stock,6.14,5800.033
+GENX FP Equity,Generix Group SADIR,EUR,FP,FR,Common Stock,9.56,59730.63
+ALODC FP Equity,Omer-Decugis & Cie SACA,EUR,FP,FR,Common Stock,8.2,2526.967
+MC EU Equity,LVMH Moet Hennessy Louis Vuitton SE,EUR,EU,FR,Common Stock,606.6,1156063
+AURE FP Equity,Aurea SA,EUR,FP,FR,Common Stock,11.35,4922.733
+BUR FP Equity,Burelle SA,EUR,FP,FR,Common Stock,530,144.8667
+FP EU Equity,TotalEnergies SE,EUR,EU,FR,Common Stock,54.6,16453810
+ELEC FP Equity,Electricite de Strasbourg SA,EUR,FP,FR,Common Stock,99.4,704.3
+ALPJT FP Equity,Poujoulat,EUR,FP,FR,Common Stock,88.5,150.7667
+GEA FP Equity,GEA,EUR,FP,FR,Common Stock,91,24.13333
+GUI FP Equity,Guillemot Corp,EUR,FP,FR,Common Stock,12.84,17681.9
+AFRAF US Equity,Air France-KLM,USD,US,FR,Common Stock,2,4698.236328
+ALAMA FP Equity,AMA Corp PLC,EUR,FP,FR,Common Stock,1.89,11457.73
+LACR FP Equity,Lacroix Group SA,EUR,FP,FR,Common Stock,35.5,726.9333
+SEFER FP Equity,Serge Ferrari SAS,EUR,FP,FR,Common Stock,15.44,10289.63
+AF EU Equity,Air France-KLM,EUR,EU,FR,Common Stock,1.764,20005970
+BALYO FP Equity,Balyo SA,EUR,FP,FR,Common Stock,0.982,44407.13
+ALREA FP Equity,Realites Promotion,EUR,FP,FR,Common Stock,41.5,3048.967
+AURS FP Equity,AURES Technologies SA,EUR,FP,FR,Common Stock,17.85,705.4667
+ALMDG FP Equity,MGI Digital Graphic Technology,EUR,FP,FR,Common Stock,33.7,3751.033
+ALQGC FP Equity,Quantum Genomics SAS,EUR,FP,FR,Common Stock,1.975,171002.2
+226562Z FP Equity,La Banque Postale SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+HEXA FP Equity,HEXAOM,EUR,FP,FR,Common Stock,28.8,2595.7
+DKUPL FP Equity,Dekuple,EUR,FP,FR,Common Stock,32.4,2251.233
+FAR CN Equity,Foraco International SA,CAD,CN,FR,Common Stock,2.11,12092.7
+HCO FP Equity,HighCo,EUR,FP,FR,Common Stock,5.14,7702.833
+ALNOV FP Equity,Novacyt SA,EUR,FP,FR,Common Stock,1.832,363990.3
+ALSPT FP Equity,Spartoo SAS,EUR,FP,FR,Common Stock,1.92,49772
+ALCBI FP Equity,Crypto Blockchain Industries SA,EUR,FP,FR,Common Stock,1.16,60197.27
+PVL FP Equity,Plastiques Du Val De Loire,EUR,FP,FR,Common Stock,5.04,6898.767
+ALFLE FP Equity,Fleury Michon SA,EUR,FP,FR,Common Stock,24,1668.167
+XIL FP Equity,Xilam Animation SA,EUR,FP,FR,Common Stock,37.8,1332.5
+DLRWD US Equity,Delta Drone,USD,US,FR,Common Stock,0.0012,0.903019965
+ALPDX FP Equity,Piscines Desjoyaux SA,EUR,FP,FR,Common Stock,22.75,2072.333
+BNP EU Equity,BNP Paribas SA,EUR,EU,FR,Common Stock,53.51,9813498
+ALTBG FP Equity,Blockchain Group/The,EUR,FP,FR,Common Stock,0.92,166984.9
+GPE FP Equity,GPE Groupe Pizzorno,EUR,FP,FR,Common Stock,43.1,667
+ALBKK FP Equity,Baikowski SAS,EUR,FP,FR,Common Stock,25.6,646.4
+ORP EU Equity,Orpea SA,EUR,EU,FR,Common Stock,25.66,2089617
+CRAV FP Equity,Credit Agricole Atlantique Vendee,EUR,FP,FR,Common Stock,83.6,216.5333
+RX FP Equity,Recylex SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+PCA FP Equity,PCAS,EUR,FP,FR,Common Stock,8.72,656.4333
+ALTRI FP Equity,Trilogiq,EUR,FP,FR,Common Stock,5.6,179.8667
+SAN1 EU Equity,Sanofi,EUR,EU,FR,Common Stock,100.37,7142454
+ERYP FP Equity,Erytech Pharma SA,EUR,FP,FR,Common Stock,1.158,256909.5
+ALDVI FP Equity,Advicenne SACA,EUR,FP,FR,Common Stock,5.19,26571.3
+ALECO FP Equity,Ecomiam SA,EUR,FP,FR,Common Stock,8.48,1056.667
+AXA GR Equity,AXA SA,EUR,GR,FR,Common Stock,23.715,85990.7
+EL IM Equity,EssilorLuxottica SA,EUR,IM,FR,Common Stock,149.65,1003.967
+ALVAL FP Equity,Valbiotis SAS,EUR,FP,FR,Common Stock,6.58,6025.467
+SAF EU Equity,Safran SA,EUR,EU,FR,Common Stock,97.56,2249053
+ABLD FP Equity,ABL Diagnostics SA,EUR,FP,FR,Common Stock,26,90.13333
+AELIS FP Equity,Aelis Farma SAS,EUR,FP,FR,Common Stock,12.28,1098.367
+ALVMG FP Equity,Visiomed Group SA,EUR,FP,FR,Common Stock,0.1762,1649734
+AAA FP Equity,Alan Allman Associates,EUR,FP,FR,Common Stock,13,758.5333
+ALWF FP Equity,Winfarm SAS,EUR,FP,FR,Common Stock,20.8,543.6
+TTE LN Equity,TotalEnergies SE,EUR,LN,FR,Common Stock,55.56,680846.3
+VIL FP Equity,VIEL & Cie SA,EUR,FP,FR,Common Stock,5.92,1775.7
+CNF FP Equity,Caisse Regionale de Credit Agricole Mutuel Nord de France,EUR,FP,FR,Common Stock,16.86,4496.6
+ALT FP Equity,Altran Technologies SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+ALDEL FP Equity,Delfingen Industry,EUR,FP,FR,Common Stock,54.8,700.9
+ALNRG FP Equity,Energisme SA,EUR,FP,FR,Common Stock,0.8,21606.03
+ALCOR FP Equity,Biocorp,EUR,FP,FR,Common Stock,31.6,1169.8
+CTRG FP Equity,Catering International Services,EUR,FP,FR,Common Stock,9.74,681.4333
+GID FP Equity,Egide SA,EUR,FP,FR,Common Stock,0.91,56162.13
+ALQWA FP Equity,Qwamplify SA,EUR,FP,FR,Common Stock,6.3,3644.8
+OR EU Equity,L'Oreal SA,EUR,EU,FR,Common Stock,326,1225003
+ALUCR FP Equity,Ucar,EUR,FP,FR,Common Stock,58.45,263.0667
+ALO EU Equity,Alstom SA,EUR,EU,FR,Common Stock,25.93,4175549
+VIAC FP Equity,Via Credit Banque,FRF,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+220638Z FP Equity,Caisse des Depots et Consignations,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+SNYNF US Equity,Sanofi,USD,US,FR,Common Stock,107.25,8233.700195
+EAPIF US Equity,Euroapi SA,USD,US,FR,Common Stock,14.2,#N/A N/A
+MBWS FP Equity,Marie Brizard Wine & Spirits SA,EUR,FP,FR,Common Stock,1.35,5749.467
+FBEL FP Equity,BEL SA,EUR,FP,FR,Common Stock,#N/A N/A,0
+ALBOA FP Equity,BOA Concept SACA,EUR,FP,FR,Common Stock,32.2,2566.367
+ALAGR FP Equity,AgroGeneration,EUR,FP,FR,Common Stock,0.1286,601815.4
+ALCAP FP Equity,Capelli,EUR,FP,FR,Common Stock,19.85,642.2
+ALMIB FP Equity,Amoeba SAS,EUR,FP,FR,Common Stock,0.56,461180.3
+ALHRG FP Equity,HERIGE SADCS,EUR,FP,FR,Common Stock,45.6,943.4667
+EDF EU Equity,Electricite de France SA,EUR,EU,FR,Common Stock,8.26,6351968
+KER1 EU Equity,Kering SA,EUR,EU,FR,Common Stock,515.3,639766.3
+SOG FP Equity,Sogeclair,EUR,FP,FR,Common Stock,20.8,362.2
+ALTHE FP Equity,Theraclion SA,EUR,FP,FR,Common Stock,1.12,8730.366
+ABIO EU Equity,Albioma SA,EUR,EU,FR,Common Stock,50.025,500656.1
+ATI FP Equity,Actia Group,EUR,FP,FR,Common Stock,3.955,5938.6
+ALTIV FP Equity,Tivoly,EUR,FP,FR,Common Stock,42.05,6748.867
+DSY EU Equity,Dassault Systemes SE,EUR,EU,FR,Common Stock,38.945,3031444
+ALESE FP Equity,Entech SACA,EUR,FP,FR,Common Stock,7.11,1820.133
+ALJXR FP Equity,Archos,EUR,FP,FR,Common Stock,1.0478,74374.23
+SQI FP Equity,Sqli SA,EUR,FP,FR,Common Stock,29.4,595.2667
+VIE EU Equity,Veolia Environnement SA,EUR,EU,FR,Common Stock,26.295,4430221
+ABNX FP Equity,Abionyx Pharma SA,EUR,FP,FR,Common Stock,1.84,49297.93
+OPA TH Equity,Orpea SA,EUR,TH,FR,Common Stock,25.66,2974.1
+PRC FP Equity,Artmarket.com,EUR,FP,FR,Common Stock,8.2,16184.37
+VRAP FP Equity,Vranken-Pommery Monopole SA,EUR,FP,FR,Common Stock,17.5,1330.533
+CC FP Equity,Credit Industriel Et Commercial SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+CRBP2 FP Equity,Caisse Regionale de Credit Agricole Mutuel Brie Picardie,EUR,FP,FR,Common Stock,20.21,6422.267
+SGE GY Equity,Societe Generale SA,EUR,GY,FR,Common Stock,25.54,9627.467
+SU EU Equity,Schneider Electric SE,EUR,EU,FR,Common Stock,128.78,3312167
+ALHUN FP Equity,Hunyvers SACA,EUR,FP,FR,Common Stock,12,719.0333
+BASS FP Equity,Bassac SACA,EUR,FP,FR,Common Stock,65.6,600.9
+AFR TH Equity,Air France-KLM,EUR,TH,FR,Common Stock,1.764,193101.2
+SANP S1 Equity,Sanofi,EUR,S1,FR,Common Stock,99.995,2810.9
+ALSAF FP Equity,Safe SA /FR,EUR,FP,FR,Common Stock,0.067,341520.5
+LYS FP Equity,Lysogene SA,EUR,FP,FR,Common Stock,0.788,56715.57
+FLO FP Equity,Groupe Flo,EUR,FP,FR,Common Stock,17.4,204.5333
+GLE EU Equity,Societe Generale SA,EUR,EU,FR,Common Stock,25.455,10034850
+ALCHI FP Equity,Alchimie SAS,EUR,FP,FR,Common Stock,3.96,4210.933
+AIR AV Equity,Airbus SE,EUR,AV,FR,Common Stock,109.78,11.73333
+CAF FP Equity,Caisse Regionale de Credit Agricole Mutuel de Paris et d'Ile-de-France,EUR,FP,FR,Common Stock,75.5,365.6333
+ALACT FP Equity,Acticor Biotech SAS,EUR,FP,FR,Common Stock,6.9,3474.133
+ALPIX FP Equity,Pixium Vision SA,EUR,FP,FR,Common Stock,0.537,95873.93
+EI1 EU Equity,EssilorLuxottica SA,EUR,EU,FR,Common Stock,150.1,1335778
+AFR GR Equity,Air France-KLM,EUR,GR,FR,Common Stock,1.76,95664.8
+EGR FP Equity,Transition Evergreen,EUR,FP,FR,Common Stock,2.8,7718.1
+UNBL FP Equity,Unibel,EUR,FP,FR,Common Stock,1070,10.03333
+SAMS FP Equity,Samse SA,EUR,FP,FR,Common Stock,208,216.3
+0RA8 LI Equity,Elis SA,EUR,LI,FR,Common Stock,14.635,130025.3
+ALBUD FP Equity,Mint SA,EUR,FP,FR,Common Stock,3.55,2510.333
+UEN TH Equity,Ubisoft Entertainment SA,EUR,TH,FR,Common Stock,49,3936.367
+ALSPW FP Equity,Spineway,EUR,FP,FR,Common Stock,0.0004,84046650
+ALMRB FP Equity,Mr Bricolage SA,EUR,FP,FR,Common Stock,11,2626.5
+NCYT LN Equity,Novacyt SA,GBp,LN,FR,Common Stock,155.1,171976.8
+ALU FP Equity,Alcatel Lucent SAS,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+COM FP Equity,CNIM Groupe SA,EUR,FP,FR,Common Stock,#N/A N/A,0
+ALGBE FP Equity,Global Bioenergies SA,EUR,FP,FR,Common Stock,4.52,10929.57
+BNPP IX Equity,BNP Paribas SA,EUR,IX,FR,Common Stock,53.53,7311.3
+CRTO FP Equity,Caisse Regionale de Credit Agricole Mutuel de la Touraine et du Poitou,EUR,FP,FR,Common Stock,74.5,166.9
+ALGEV FP Equity,Gevelot SA,EUR,FP,FR,Common Stock,183,46
+DZR FP Equity,Deezer SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+ALENE FP Equity,Enertime SA,EUR,FP,FR,Common Stock,1.976,20338.7
+ALOSM FP Equity,Osmozis SAS,EUR,FP,FR,Common Stock,8.5,3468.233
+ALTBM FP Equity,Les Toques Blanches Du Monde,EUR,FP,FR,Common Stock,0.145,7222.6
+VK EU Equity,Vallourec SA,EUR,EU,FR,Common Stock,13.065,2833281
+AIR GR Equity,Airbus SE,EUR,GR,FR,Common Stock,109.52,425352.7
+ALALO FP Equity,Acheter-Louer.fr SADIR,EUR,FP,FR,Common Stock,0.0009,23277460
+ALHIO FP Equity,Groupe Hiolle Industries,EUR,FP,FR,Common Stock,4.66,7895
+2CRSI FP Equity,2CRSI SACA,EUR,FP,FR,Common Stock,4.18,11751.57
+ALLAN FP Equity,Lanson-BCC,EUR,FP,FR,Common Stock,28.5,479.7
+MLOEX FP Equity,ONE Experience SA,EUR,FP,FR,Common Stock,4.3,23557.23
+OSE FP Equity,OSE Immuno,EUR,FP,FR,Common Stock,6.83,22958.17
+TOTB TH Equity,TotalEnergies SE,EUR,TH,FR,Common Stock,54.6,53380.87
+ALDAR FP Equity,Damartex SA,EUR,FP,FR,Common Stock,16,1066
+ALPRO FP Equity,Prodware,EUR,FP,FR,Common Stock,8.14,103.1667
+211718Z FP Equity,RCI Banque SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+EXPL FP Equity,SA d'Explosifs et Produits Chimiques,EUR,FP,FR,Common Stock,59.5,267.1333
+ALCUR FP Equity,Arcure SA,EUR,FP,FR,Common Stock,3.68,2114.233
+HAV FP Equity,Havas SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+TOTB GY Equity,TotalEnergies SE,EUR,GY,FR,Common Stock,54.6,27994.23
+ADVI FP Equity,Advini,EUR,FP,FR,Common Stock,19.5,178.3
+AIRF AV Equity,Air France-KLM,EUR,AV,FR,Common Stock,1.84,3524.674
+CRAP FP Equity,Caisse Regionale de Credit Agricole Mutuel Alpes Provence,EUR,FP,FR,Common Stock,69.03,209.2333
+ALEMG FP Equity,Euromedis Groupe,EUR,FP,FR,Common Stock,5.99,9609.434
+AIR TH Equity,Airbus SE,EUR,TH,FR,Common Stock,109.48,40191.46
+ALCOG FP Equity,Cogra 48,EUR,FP,FR,Common Stock,11.05,2639.633
+ALECP FP Equity,EuropaCorp,EUR,FP,FR,Common Stock,0.52,12000.3
+MLTHO FP Equity,Metavisio SA,EUR,FP,FR,Common Stock,8.3,2004.267
+964152Z FP Equity,Consolis SAS,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+AIREUR EU Equity,Airbus SE,EUR,EU,FR,Common Stock,109.5,5005162
+CCN FP Equity,Caisse Regionale de Credit Agricole Mutuel de Normandie-Seine,EUR,FP,FR,Common Stock,84,310.0333
+ALNFT FP Equity,NFTY SA,EUR,FP,FR,Common Stock,0.1866,82907.77
+AREIT FP Equity,Altareit SCA,EUR,FP,FR,Common Stock,645,1.3
+DIM EU Equity,Sartorius Stedim Biotech,EUR,EU,FR,Common Stock,314.4,144432.9
+ALTUV FP Equity,BIO-UV Group SAS,EUR,FP,FR,Common Stock,4.97,8550.833
+AMPLI FP Equity,Amplitude Surgical SAS,EUR,FP,FR,Common Stock,2.77,2280.133
+SNW GR Equity,Sanofi,EUR,GR,FR,Common Stock,100.52,7016.433
+211382Z FP Equity,BRED Banque Populaire,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+ALTHX FP Equity,TheraNexus SACA,EUR,FP,FR,Common Stock,2,23964.5
+BNP TH Equity,BNP Paribas SA,EUR,TH,FR,Common Stock,53.52,18337.4
+SGO EU Equity,Cie de Saint-Gobain,EUR,EU,FR,Common Stock,55.39,3241439
+ALBIZ FP Equity,Obiz SA,EUR,FP,FR,Common Stock,7.3,2912.033
+ALLEC FP Equity,Cogelec SACA,EUR,FP,FR,Common Stock,7.84,967.5
+BOIVF US Equity,Bollore SE,USD,US,FR,Common Stock,5.32,148874.3281
+LVMH SW Equity,LVMH Moet Hennessy Louis Vuitton SE,CHF,SW,FR,Common Stock,797.3,890.1334
+TCH EU Equity,Technicolor SA,EUR,EU,FR,Common Stock,3.548,502899.4
+1730114D FP Equity,Broadpeak SAS,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+ALNFL FP Equity,NFL Biosciences SA,EUR,FP,FR,Common Stock,0.97,31163.67
+IDIP FP Equity,IDI SCA,EUR,FP,FR,Common Stock,53.8,428.1333
+ALBPS FP Equity,Biophytis SA,EUR,FP,FR,Common Stock,0.133,994042.6
+ALCG FP Equity,CABASSE GROUP,EUR,FP,FR,Common Stock,3.05,2365.867
+GAM FP Equity,Gaumont SA,EUR,FP,FR,Common Stock,110,87.73333
+FFP EP Equity,PEUGEOT INVEST,EUR,EP,FR,Common Stock,106.8,5157.967
+SANF IM Equity,Sanofi,EUR,IM,FR,Common Stock,100.5,653.1667
+CA EU Equity,Carrefour SA,EUR,EU,FR,Common Stock,19.305,6944866
+PAT FP Equity,Patrimoine et Commerce,EUR,FP,FR,Common Stock,18.9,741.8666
+ALUCI FP Equity,Lucibel SA,EUR,FP,FR,Common Stock,1.15,43053.3
+AF IM Equity,Air France-KLM,EUR,IM,FR,Common Stock,1.7515,117307.3
+ALMIL FP Equity,1000mercis,EUR,FP,FR,Common Stock,30,1038.067
+ALPOU FP Equity,Poulaillon SA,EUR,FP,FR,Common Stock,4.45,796.2333
+ALVGO FP Equity,VOGO SACA,EUR,FP,FR,Common Stock,4.68,1446.433
+HOP FP Equity,Hopscotch Groupe,EUR,FP,FR,Common Stock,14.4,1626.867
+SBGSF US Equity,Schneider Electric SE,USD,US,FR,Common Stock,139.11,3976.533447
+ALITL FP Equity,IT Link SA,EUR,FP,FR,Common Stock,27.3,1425.467
+ALLEX FP Equity,Lexibook,EUR,FP,FR,Common Stock,4.74,14416.8
+PARP FP Equity,Groupe Partouche SA,EUR,FP,FR,Common Stock,20.1,348.3667
+MLPAP FP Equity,LES Agences de Papa SAS,EUR,FP,FR,Common Stock,1.58,465.8
+MKEA FP Equity,Mauna Kea Technologies,EUR,FP,FR,Common Stock,0.535,83754.27
+ALWIT FP Equity,Witbe.net SA,EUR,FP,FR,Common Stock,7.19,6027.8
+ALSGD FP Equity,SpineGuard SA,EUR,FP,FR,Common Stock,0.86,86135.53
+CIV FP Equity,Caisse Regionale de Credit Agricole Mutuel d'Ille-et-Vilaine,EUR,FP,FR,Common Stock,65.49,182.9667
+BLEE FP Equity,Bleecker SA,EUR,FP,FR,Common Stock,182,34.66667
+ALDEI FP Equity,Deinove,EUR,FP,FR,Common Stock,0.235,81492.1
+ALMII FP Equity,M2i,EUR,FP,FR,Common Stock,4.27,1699.367
+GALIM FP Equity,Galimmo SA,EUR,FP,FR,Common Stock,13.1,5.533333
+TFI EU Equity,Television Francaise 1,EUR,EU,FR,Common Stock,7.845,805218.9
+178179Q FP Equity,HSBC Continental Europe SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+AIR SM Equity,Airbus SE,EUR,SM,FR,Common Stock,109.66,5886.7
+ASF FP Equity,Autoroutes du Sud de la France SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+ITE FP Equity,Itesoft SA,EUR,FP,FR,Common Stock,4,10340.4
+ALESA FP Equity,Ecoslops SA,EUR,FP,FR,Common Stock,9.4,1656.867
+UBI1 EU Equity,Ubisoft Entertainment SA,EUR,EU,FR,Common Stock,48.5,1687949
+0NWV LI Equity,Schneider Electric SE,EUR,LI,FR,Common Stock,128.63,413188.7
+ALLUX FP Equity,Installux SA,EUR,FP,FR,Common Stock,400,75.83334
+CRLO FP Equity,Credit Agricole Loire Haute-Loire,EUR,FP,FR,Common Stock,60,162.1333
+MOH TH Equity,LVMH Moet Hennessy Louis Vuitton SE,EUR,TH,FR,Common Stock,611,4701.3
+AI EU Equity,Air Liquide SA,EUR,EU,FR,Common Stock,161.7,2302550
+NEXTS FP Equity,Nextstage SCA,EUR,FP,FR,Common Stock,88,16.5
+BNPQF US Equity,BNP Paribas SA,USD,US,FR,Common Stock,57.6,3764.06665
+EN EU Equity,Bouygues SA,EUR,EU,FR,Common Stock,32.21,2645079
+GFI FP Equity,Inetum SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+PPRUF US Equity,Kering SA,USD,US,FR,Common Stock,537.08,946.2666626
+ALMGI FP Equity,MG International SA,EUR,FP,FR,Common Stock,13,1104.533
+CAT31 FP Equity,Caisse Regionale De Credit Agricole Mutuel Toulouse 31,EUR,FP,FR,Common Stock,76.49,305.2667
+ALONX FP Equity,Onxeo SA,EUR,FP,FR,Common Stock,0.35,24517.47
+BN EU Equity,Danone SA,EUR,EU,FR,Common Stock,55.225,5038337
+ALBOO FP Equity,Boostheat SACA,EUR,FP,FR,Common Stock,0.39,25928.63
+TE1EUR EU Equity,Technip Energies NV,EUR,EU,FR,Common Stock,12.57,1228048
+TEC FP Equity,Technip SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+ALCJ FP Equity,Crossject SA,EUR,FP,FR,Common Stock,1.908,38845.73
+MHM FP Equity,Myhotelmatch SACA,EUR,FP,FR,Common Stock,0.026,98064.84
+737328Z FP Equity,Criteo SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+ALGEN FP Equity,genOway SA,EUR,FP,FR,Common Stock,3.46,5148.433
+MEMS FP Equity,Memscap SA,EUR,FP,FR,Common Stock,1.165,3116.867
+ALBDM FP Equity,BD Multi-Media SA,EUR,FP,FR,Common Stock,4.73,11750.43
+AXA GY Equity,AXA SA,EUR,GY,FR,Common Stock,23.715,74944.2
+EO EU Equity,Faurecia SE,EUR,EU,FR,Common Stock,26.17,3413727
+ALAST FP Equity,AST Groupe SA,EUR,FP,FR,Common Stock,3.48,2302.7
+IS FP Equity,Icade Sante SACA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+MDW FP Equity,Mediawan SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+HESAF US Equity,Hermes International,USD,US,FR,Common Stock,1185.08,247.3999939
+ALKLK FP Equity,Kerlink SACA,EUR,FP,FR,Common Stock,3.71,18037.77
+BSD FP Equity,Bourse Direct,EUR,FP,FR,Common Stock,3.29,4494.3
+VIV EU Equity,Vivendi SE,EUR,EU,FR,Common Stock,11.155,7599725
+CRSU FP Equity,Caisse Regionale de Credit Agricole Mutuel Sud Rhone Alpes,EUR,FP,FR,Common Stock,134.04,152.5
+EURS FP Equity,Fonciere Euris SA,EUR,FP,FR,Common Stock,7.5,268.9
+SW EU Equity,Sodexo SA,EUR,EU,FR,Common Stock,70.42,554496.4
+GV FP Equity,Genomic Vision,EUR,FP,FR,Common Stock,0.093,280999.4
+ALGTR FP Equity,Groupe Tera SACA,EUR,FP,FR,Common Stock,8.55,1495.433
+CMUT FP Equity,Credit Mutuel Alliance Federale,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+ARTE FP Equity,Artea SARLU,EUR,FP,FR,Common Stock,18.4,488.4
+CRLA FP Equity,Caisse Regionale de Credit Agricole Mutuel du Languedoc SCCV,EUR,FP,FR,Common Stock,52.05,572.2667
+HO EU Equity,Thales SA,EUR,EU,FR,Common Stock,114.725,896537.3
+EADSF US Equity,Airbus SE,USD,US,FR,Common Stock,117.748,5745.366699
+FNTS FP Equity,Finatis SA,EUR,FP,FR,Common Stock,21,17.4
+ACA EU Equity,Credit Agricole SA,EUR,EU,FR,Common Stock,10.26,16884450
+TEP1 EU Equity,Teleperformance,EUR,EU,FR,Common Stock,305.9,261784.4
+ALKKO FP Equity,KKO International SA,EUR,FP,FR,Common Stock,0.153,476593.4
+LBON FP Equity,Cie Lebon SA,EUR,FP,FR,Common Stock,83.2,226.6
+SQU TH Equity,Vinci SA,EUR,TH,FR,Common Stock,90.23,2148.833
+ARVCF US Equity,Areva SA,USD,US,FR,Common Stock,#N/A N/A,#N/A N/A
+PAOR EU Equity,Rothschild & Co,EUR,EU,FR,Common Stock,36.8,55716.87
+VEOEF US Equity,Veolia Environnement SA,USD,US,FR,Common Stock,28.23,3754.666748
+MLAHC FP Equity,@health SACA,EUR,FP,FR,Common Stock,#N/A N/A,0
+MOH GR Equity,LVMH Moet Hennessy Louis Vuitton SE,EUR,GR,FR,Common Stock,606.5,3208.267
+VRLAEUR EU Equity,Verallia SA,EUR,EU,FR,Common Stock,26.08,343022.2
+BOL1 EU Equity,Bollore SE,EUR,EU,FR,Common Stock,4.94,4032744
+ORAP FP Equity,ORAPI,EUR,FP,FR,Common Stock,5.46,1964.4
+ZC FP Equity,Zodiac Aerospace,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+ALNEO FP Equity,Alpha MOS SACA,EUR,FP,FR,Common Stock,2.355,9153.033
+CNP EU Equity,CNP Assurances,EUR,EU,FR,Common Stock,20.9,1577287
+RXL EU Equity,Rexel SA,EUR,EU,FR,Common Stock,20.08,2028154
+AFME FP Equity,Affluent Medical SA,EUR,FP,FR,Common Stock,4.22,363.5333
+ALAGO FP Equity,E-Pango SAS,EUR,FP,FR,Common Stock,#N/A N/A,0
+ALSMA FP Equity,SMAIO SASU,EUR,FP,FR,Common Stock,4.76,1355.933
+CMO FP Equity,Caisse Regionale de Credit Agricole du Morbihan,EUR,FP,FR,Common Stock,64.31,239.1
+ALKEY FP Equity,Keyrus,EUR,FP,FR,Common Stock,3.61,4179
+GTTEUR EU Equity,Gaztransport Et Technigaz SA,EUR,EU,FR,Common Stock,122.7,269449.6
+ALDBL FP Equity,Bernard Loiseau SA,EUR,FP,FR,Common Stock,4,271.9
+ALHF FP Equity,HF Co,EUR,FP,FR,Common Stock,6.66,4352.7
+ALNTG FP Equity,NetGem SA,EUR,FP,FR,Common Stock,1.385,8329.134
+FAU GR Equity,Faurecia SE,EUR,GR,FR,Common Stock,26.1,959.7667
+MUN FP Equity,Micropole,EUR,FP,FR,Common Stock,1.224,23066.4
+RMS EU Equity,Hermes International,EUR,EU,FR,Common Stock,1112.5,181359.8
+OCS FP Equity,Idemia France SAS,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+ALDLS FP Equity,D.L.S.I.,EUR,FP,FR,Common Stock,11.25,910.1667
+EAPIP TQ Equity,Euroapi SA,EUR,TQ,FR,Common Stock,13.44,#N/A N/A
+AYJ GR Equity,Valneva SE,EUR,GR,FR,Common Stock,11.48,66331.97
+DG EU Equity,Vinci SA,EUR,EU,FR,Common Stock,90.23,3249540
+DVT FP Equity,Devoteam SA,EUR,FP,FR,Common Stock,#N/A N/A,0
+EUR FP Equity,Euro Ressources SA,EUR,FP,FR,Common Stock,3.4,11284.93
+GPAS FP Equity,Caisse Nationale de Reassurance Mutuelle Agricole Groupama,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+AC EU Equity,Accor SA,EUR,EU,FR,Common Stock,30.7,1554247
+ALUNT FP Equity,Uniti SA,EUR,FP,FR,Common Stock,2.54,207
+MAAT FP Equity,MaaT Pharma SACA,EUR,FP,FR,Common Stock,12.2,457.0333
+VLA AV Equity,Valneva SE,EUR,AV,FR,Common Stock,11.69,5467.067
+EDEN EU Equity,Edenred,EUR,EU,FR,Common Stock,45.09,1170568
+ILIAF US Equity,Iliad SA,USD,US,FR,Common Stock,#N/A N/A,#N/A N/A
+ALWED FP Equity,Wedia SA,EUR,FP,FR,Common Stock,42.9,266.9
+GJAJ FP Equity,Groupe JAJ,EUR,FP,FR,Common Stock,1.61,791.7667
+AFP S1 Equity,Air France-KLM,EUR,S1,FR,Common Stock,1.859,6432.793
+ALEXA FP Equity,Exacompta Clairefontaine,EUR,FP,FR,Common Stock,104,42.46667
+FGR EU Equity,Eiffage SA,EUR,EU,FR,Common Stock,91.9,539599.2
+CAPMF US Equity,Capgemini SE,USD,US,FR,Common Stock,191.73,253.1333313
+ALINT FP Equity,IntegraGen,EUR,FP,FR,Common Stock,1.07,4253.167
+CBE FP Equity,Robertet SA,EUR,FP,FR,Common Stock,883.3,7.466667
+E2F TH Equity,Electricite de France SA,EUR,TH,FR,Common Stock,8.266,28227.73
+FURCF US Equity,Faurecia SE,USD,US,FR,Common Stock,27.39,755.333313
+MLSRP FP Equity,Speed Rabbit Pizza SA,EUR,FP,FR,Common Stock,7.5,64
+ALPRI FP Equity,Prismaflex International,EUR,FP,FR,Common Stock,9.79,337.9333
+ALBI FP Equity,Gascogne,EUR,FP,FR,Common Stock,3.45,1497.9
+CS EU Equity,AXA SA,EUR,EU,FR,Common Stock,23.715,15642840
+THLEF US Equity,Thales SA,USD,US,FR,Common Stock,121,132.2666626
+LFDEEUR EU Equity,Francaise Energie,EUR,EU,FR,Common Stock,52.4,32049.47
+CAFO FP Equity,Cafom SA,EUR,FP,FR,Common Stock,10,909.5333
+ELIOREUR EU Equity,Elior Group SA,EUR,EU,FR,Common Stock,2.846,2707005
+ALSKY FP Equity,Skytech SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+EDFP S1 Equity,Electricite de France SA,EUR,S1,FR,Common Stock,8.696,1921.267
+SZEVF US Equity,Suez SA,USD,US,FR,Common Stock,#N/A N/A,0
+ARTO FP Equity,Societe Industrielle et Financiere de l'Artois SA,EUR,FP,FR,Common Stock,4880,10.7
+LRLCF US Equity,L'Oreal SA,USD,US,FR,Common Stock,355.94,1601.93335
+ML EU Equity,Cie Generale des Etablissements Michelin SCA,EUR,EU,FR,Common Stock,122.05,1148131
+ALAGP FP Equity,Agripower France SA,EUR,FP,FR,Common Stock,8.35,3512.6
+EAPIP EB Equity,Euroapi SA,EUR,EB,FR,Common Stock,13.688,#N/A N/A
+ONXEO DC Equity,Onxeo SA,DKK,DC,FR,Common Stock,2.675,6433.667
+940 GF Equity,Euroapi SA,EUR,GF,FR,Common Stock,13.66,#N/A N/A
+CBOT FP Equity,CBo Territoria,EUR,FP,FR,Common Stock,3.85,16460.8
+TTFNF US Equity,TotalEnergies SE,USD,US,FR,Common Stock,58.95,11409.9668
+AIP S1 Equity,Air Liquide SA,EUR,S1,FR,Common Stock,161.77,763.0667
+ORA EU Equity,Orange SA,EUR,EU,FR,Common Stock,11.674,14686150
+ADUX FP Equity,ADUX SA,EUR,FP,FR,Common Stock,1.92,2014.567
+ALLGO FP Equity,Largo SA,EUR,FP,FR,Common Stock,7.81,2658.8
+ALTER FP Equity,Theradiag SA,EUR,FP,FR,Common Stock,1.772,15648.2
+THNPF US Equity,Technip Energies NV,USD,US,FR,Common Stock,12.954,191.6000061
+VLOUF US Equity,Vallourec SA,USD,US,FR,Common Stock,14.07,231.3666687
+AXA TH Equity,AXA SA,EUR,TH,FR,Common Stock,23.69,35514.57
+AXAHF US Equity,AXA SA,USD,US,FR,Common Stock,25.05,3617.100098
+MALT FP Equity,Malteries Franco Belges,EUR,FP,FR,Common Stock,505,33.03333
+SANP EB Equity,Sanofi,EUR,EB,FR,Common Stock,100.51,3059174
+VACD TH Equity,Vallourec SA,EUR,TH,FR,Common Stock,13.065,6666.033
+DSYNV FP Equity,Dassault Systemes SE,EUR,FP,FR,Common Stock,#N/A N/A,0
+DUAVF US Equity,Dassault Aviation SA,USD,US,FR,Common Stock,170,583.5333252
+JJ FP Equity,Crown European Holdings SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+MONC FP Equity,Financiere Moncey,EUR,FP,FR,Common Stock,6000,1.266667
+XPO FP Equity,GXO Logistics Europe SAS,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+ALMND FP Equity,Montagne & Neige Developpement SACA,EUR,FP,FR,Common Stock,3.125,6031.5
+ALUVI FP Equity,UV Germi SA,EUR,FP,FR,Common Stock,4.05,2598.167
+EO IF Equity,Faurecia SE,EUR,IF,FR,Common Stock,25.5,302.5333
+SNW GY Equity,Sanofi,EUR,GY,FR,Common Stock,100.58,3952.5
+BSN GR Equity,Danone SA,EUR,GR,FR,Common Stock,55.25,8590.366
+PONGF US Equity,Atari SA,USD,US,FR,Common Stock,0.19,47654.30078
+SCR EU Equity,SCOR SE,EUR,EU,FR,Common Stock,24.63,1059010
+SGE TH Equity,Societe Generale SA,EUR,TH,FR,Common Stock,25.57,30083.8
+ALDOL FP Equity,Dolfines,EUR,FP,FR,Common Stock,0.27,156569.1
+CARP FP Equity,Carpinienne de Participations SA,EUR,FP,FR,Common Stock,21.8,3.433333
+KO2 TH Equity,Korian SA,EUR,TH,FR,Common Stock,19.57,1092.033
+ALPRE FP Equity,Predilife SA,EUR,FP,FR,Common Stock,5.8,238.8
+ALTVO FP Equity,EVOLIS,EUR,FP,FR,Common Stock,30,122.4
+MLPLC FP Equity,Placoplatre SA,EUR,FP,FR,Common Stock,490,0.3666667
+0P72 LI Equity,Getlink SE,EUR,LI,FR,Common Stock,17.98,203812.4
+SESL EU Equity,SES-imagotag SA,EUR,EU,FR,Common Stock,86.3,10605.37
+WLNEUR EU Equity,Worldline SA/France,EUR,EU,FR,Common Stock,38.14,1723058
+MLCMG FP Equity,CMG Clean Tech SA,EUR,FP,FR,Common Stock,7.7,1722.9
+ALAUD FP Equity,Audacia SA,EUR,FP,FR,Common Stock,6,909.7333
+CL FP Equity,Credit Lyonnais SACA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+DPT FP Equity,ST Dupont SA,EUR,FP,FR,Common Stock,0.132,16036.33
+CSTM UN Equity,Constellium SE,USD,UN,FR,Common Stock,16.89,277662.3438
+INRLF US Equity,Valneva SE,USD,US,FR,Common Stock,12.24,728.9666748
+UBSFF US Equity,Ubisoft Entertainment SA,USD,US,FR,Common Stock,51.498,953.4000244
+VVD TH Equity,Veolia Environnement SA,EUR,TH,FR,Common Stock,26.29,12929.03
+SUP S1 Equity,Schneider Electric SE,EUR,S1,FR,Common Stock,129.14,1045.3
+EAPIN MM Equity,Euroapi SA,MXN,MM,FR,Common Stock,286.61,#N/A N/A
+ESL GR Equity,EssilorLuxottica SA,EUR,GR,FR,Common Stock,150.15,385
+F1B GR Equity,Lhyfe SAS,EUR,GR,FR,Common Stock,8.31,#N/A N/A
+ITS FP Equity,ITS Group,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+TTEP I2 Equity,TotalEnergies SE,EUR,I2,FR,Common Stock,54.61,2433629
+AFR GY Equity,Air France-KLM,EUR,GY,FR,Common Stock,1.76,31899.99
+ALPCV FP Equity,Cerinnov Group SA,EUR,FP,FR,Common Stock,1.178,14454.53
+MLP BQ Equity,Cie Generale des Etablissements Michelin SCA,EUR,BQ,FR,Common Stock,121.95,6868.4
+SOI EU Equity,SOITEC,EUR,EU,FR,Common Stock,171.45,160256.7
+TTEP T1 Equity,TotalEnergies SE,EUR,T1,FR,Common Stock,54.61,558900.9
+ALONC FP Equity,Oncodesign,EUR,FP,FR,Common Stock,8.71,2933.6
+ALROC FP Equity,Roctool,EUR,FP,FR,Common Stock,4.01,17331.73
+ALTUR FP Equity,Altur Investissement,EUR,FP,FR,Common Stock,7.08,745.8333
+GZF GY Equity,Engie SA,EUR,GY,FR,Common Stock,12.576,29398.77
+940 GS Equity,Euroapi SA,EUR,GS,FR,Common Stock,13.66,#N/A N/A
+RI EU Equity,Pernod Ricard SA,EUR,EU,FR,Common Stock,183.05,873838
+AIL GR Equity,Air Liquide SA,EUR,GR,FR,Common Stock,161.76,2362.667
+CBDG FP Equity,Cie du Cambodge,EUR,FP,FR,Common Stock,6050,0.1333333
+FNAC EU Equity,Fnac Darty SA,EUR,EU,FR,Common Stock,45.08,98023.8
+LG FP Equity,Lafarge SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+3GD GF Equity,Beneteau SA,EUR,GF,FR,Common Stock,11.76,52.56667
+ACR GD Equity,Accor SA,EUR,GD,FR,Common Stock,30.68,3.166667
+MLHBB FP Equity,Financiere Hoche Bain,EUR,FP,FR,Common Stock,#N/A N/A,0
+AFA NA Equity,Air France-KLM,EUR,NA,FR,Common Stock,#N/A N/A,#N/A N/A
+ALWEC FP Equity,Techniline SA,EUR,FP,FR,Common Stock,16.55,885.6334
+GEO FP Equity,Geodis SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+EAPIP IX Equity,Euroapi SA,EUR,IX,FR,Common Stock,13.716,#N/A N/A
+ENGI1EUR EU Equity,Engie SA,EUR,EU,FR,Common Stock,12.584,17894990
+ALADV FP Equity,Advenis SA,EUR,FP,FR,Common Stock,2.8,6502.2
+DEC EU Equity,JCDecaux SA,EUR,EU,FR,Common Stock,18.74,251347.8
+TTEP QE Equity,TotalEnergies SE,EUR,QE,FR,Common Stock,54.61,611876.6
+ALGEC FP Equity,GECI International,EUR,FP,FR,Common Stock,0.0072,25950010
+211710Z FP Equity,Roquette Freres SA,CHF,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+ELISEUR EU Equity,Elis SA,EUR,EU,FR,Common Stock,14.51,844057.6
+ALEMV FP Equity,Emova Group SA,EUR,FP,FR,Common Stock,1.55,2899.733
+ALNMR FP Equity,Nam R SA,EUR,FP,FR,Common Stock,4.91,526
+FIPP FP Equity,FIPP,EUR,FP,FR,Common Stock,0.156,8955.066
+LOR TH Equity,L'Oreal SA,EUR,TH,FR,Common Stock,327.75,2264.633
+OVHEUR EU Equity,OVH Groupe SAS,EUR,EU,FR,Common Stock,18.88,201098.7
+1DD0 GR Equity,Delta Drone,EUR,GR,FR,Common Stock,5.3,707.4454
+940 TH Equity,Euroapi SA,EUR,TH,FR,Common Stock,13.7,#N/A N/A
+ALMUN FP Equity,Munic SA,EUR,FP,FR,Common Stock,2.96,1737.8
+MLHYD FP Equity,Hydraulique PB SA,EUR,FP,FR,Common Stock,585,0.03333334
+0OPO LN Equity,ABL Diagnostics SA,EUR,LN,FR,Common Stock,#N/A N/A,#N/A N/A
+ECIFF US Equity,Electricite de France SA,USD,US,FR,Common Stock,8.9,1667.766724
+SZE FP Equity,Societe Lyonnaise Des Eaux Et De L'eclairage,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+VLCN LX Equity,Velcan Holdings SA,EUR,LX,FR,Common Stock,10.4,707.1667
+ALOBR FP Equity,Ober SA,EUR,FP,FR,Common Stock,8.25,370.8333
+JBOG FP Equity,Jacques Bogart SA,EUR,FP,FR,Common Stock,10.75,1056.567
+XXX BB Equity,Paribas,BEF,BB,FR,Common Stock,#N/A N/A,#N/A N/A
+COOSF US Equity,Carbios SACA,USD,US,FR,Common Stock,36.85,236.9333344
+E2F GR Equity,Electricite de France SA,EUR,GR,FR,Common Stock,8.258,8701.733
+OR8 GB Equity,Sopra Steria Group SACA,EUR,GB,FR,Common Stock,166.5,0
+POM EU Equity,Cie Plastic Omnium SA,EUR,EU,FR,Common Stock,17.92,351875
+SCGLF US Equity,Societe Generale SA,USD,US,FR,Common Stock,26.53,1976.599976
+NEX EU Equity,Nexans SA,EUR,EU,FR,Common Stock,93.75,159290.2
+SEC FP Equity,Soditech Ingenierie SA,EUR,FP,FR,Common Stock,0.9,1356.3
+ALENT FP Equity,Entreparticuliers.com,EUR,FP,FR,Common Stock,2.3,3047.833
+EEM FP Equity,ELECTRICITE ET EAUX DE MADAGASCAR,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+NEOENEUR EU Equity,Neoen SA,EUR,EU,FR,Common Stock,38.89,286770.7
+ORPEF US Equity,Orpea SA,USD,US,FR,Common Stock,28.06,405.7333374
+ALBLU FP Equity,Bluelinea SA,EUR,FP,FR,Common Stock,2.25,911.1667
+ALPAT FP Equity,Plant Advanced Technologies PAT SA,EUR,FP,FR,Common Stock,18.1,479.8
+CNPAF US Equity,CNP Assurances,USD,US,FR,Common Stock,#N/A N/A,0
+EXN1EUR EU Equity,Exclusive Networks SA,EUR,EU,FR,Common Stock,17.22,7347.6
+HMI TH Equity,Hermes International,EUR,TH,FR,Common Stock,1119.5,435.2333
+IRD FP Equity,Groupe IRD,EUR,FP,FR,Common Stock,25.205,13.76667
+OREGE FP Equity,Orege SA,EUR,FP,FR,Common Stock,0.77,4850.733
+0KVV LI Equity,Airbus SE,EUR,LI,FR,Common Stock,109.64,517392.5
+211522Z FP Equity,Oddo BHF SCA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+AIRP S1 Equity,Airbus SE,EUR,S1,FR,Common Stock,109.65,3273.233
+ALPHE FP Equity,Pherecydes Pharma SADIR,EUR,FP,FR,Common Stock,4.73,3636.167
+BIM EU Equity,BioMerieux,EUR,EU,FR,Common Stock,96.36,207529.9
+BUTS FP Equity,BUT SAS,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+CBLNF US Equity,Mersen SA,USD,US,FR,Common Stock,33.35,#N/A N/A
+ESLOF US Equity,EssilorLuxottica SA,USD,US,FR,Common Stock,158.08,5672.933105
+WO6 GY Equity,Worldline SA/France,EUR,GY,FR,Common Stock,38.07,114.1333
+AKE EU Equity,Arkema SA,EUR,EU,FR,Common Stock,113.35,395802.8
+ALGRO FP Equity,Grolleau SACA,EUR,FP,FR,Common Stock,8.98,617.4333
+AYJ GY Equity,Valneva SE,EUR,GY,FR,Common Stock,11.5,43148.07
+SNW TH Equity,Sanofi,EUR,TH,FR,Common Stock,100.36,5695.867
+3133630Z FP Equity,Credit Logement SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+FURCF UV Equity,Faurecia SE,USD,UV,FR,Common Stock,27.39,755.333313
+EOS FP Equity,Acteos,EUR,FP,FR,Common Stock,2.17,5992.767
+ALENO FP Equity,Enogia SAS,EUR,FP,FR,Common Stock,8.26,1626.467
+ALTOO FP Equity,Toosla SACA,EUR,FP,FR,Common Stock,2.82,2592.133
+BNP GR Equity,BNP Paribas SA,EUR,GR,FR,Common Stock,53.48,22154.83
+MGDDF US Equity,Cie Generale des Etablissements Michelin SCA,USD,US,FR,Common Stock,128.75,339.1333313
+TIPI FP Equity,Tipiak SA,EUR,FP,FR,Common Stock,63,25.16667
+OQLGF US Equity,OL Groupe SA,USD,US,FR,Common Stock,2.4,333.3333435
+SABE FP Equity,Saint Jean Groupe SA,EUR,FP,FR,Common Stock,18.8,515.3333
+RBT EU Equity,Robertet SA,EUR,EU,FR,Common Stock,918,900.2
+ALARF FP Equity,Adeunis SACA,EUR,FP,FR,Common Stock,2.65,2412.467
+ALRIB FP Equity,Riber SA,EUR,FP,FR,Common Stock,1.632,7755.733
+E2F GY Equity,Electricite de France SA,EUR,GY,FR,Common Stock,8.246,6512.6
+SK EU Equity,SEB SA,EUR,EU,FR,Common Stock,100.2,201126.2
+ALVTX FP Equity,Voluntis SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+CSP S1 Equity,AXA SA,EUR,S1,FR,Common Stock,23.68,4221.233
+GZF TH Equity,Engie SA,EUR,TH,FR,Common Stock,12.576,45228.37
+MLLCB FP Equity,LES Constructeurs DU Bois Sarl,EUR,FP,FR,Common Stock,4.62,231.2
+ACRFF US Equity,Accor SA,USD,US,FR,Common Stock,33.31,424.5333252
+E7V GF Equity,Rexel SA,EUR,GF,FR,Common Stock,19.595,35.93333
+RUI EU Equity,Rubis SCA,EUR,EU,FR,Common Stock,28.28,439487.6
+VLS1 EU Equity,Valneva SE,EUR,EU,FR,Common Stock,11.51,1754348
+0ABC LN Equity,Realites Promotion,EUR,LN,FR,Common Stock,#N/A N/A,#N/A N/A
+AAVXF US Equity,Abivax SA,USD,US,FR,Common Stock,#N/A N/A,0
+ALATF FP Equity,Artefact SA,EUR,FP,FR,Common Stock,#N/A N/A,0
+ALPRG FP Equity,Prologue,EUR,FP,FR,Common Stock,0.278,71250.23
+BNP IM Equity,BNP Paribas SA,EUR,IM,FR,Common Stock,53.66,3734.233
+SAFRF US Equity,Safran SA,USD,US,FR,Common Stock,104.9,8611.833008
+ALCOF FP Equity,COFIDUR SA,EUR,FP,FR,Common Stock,382,44.66667
+ALIDS FP Equity,IDSUD SA,EUR,FP,FR,Common Stock,152,2
+ALKLA FP Equity,Klarsen,EUR,FP,FR,Common Stock,2.42,42006.13
+DASTF US Equity,Dassault Systemes SE,USD,US,FR,Common Stock,41.815,3254.93335
+EAPIEUR EO Equity,Euroapi SA,EUR,EO,FR,Common Stock,#N/A N/A,#N/A N/A
+UEN GR Equity,Ubisoft Entertainment SA,EUR,GR,FR,Common Stock,48.53,810.8666
+CROS FP Equity,Crosswood,EUR,FP,FR,Common Stock,5.6,82.56667
+KOF EU Equity,Kaufman & Broad SA,EUR,EU,FR,Common Stock,26.425,53904.5
+ORP BQ Equity,L'Oreal SA,EUR,BQ,FR,Common Stock,325.9,4932
+SIPH FP Equity,Societe Internationale de Plantations d'Heveas SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+SPIEEUR EU Equity,SPIE SA,EUR,EU,FR,Common Stock,22.2,772614.8
+AIQUF US Equity,Air Liquide SA,USD,US,FR,Common Stock,175.0999,973.4666748
+ALMLB FP Equity,Miliboo SA,EUR,FP,FR,Common Stock,3.315,961.1667
+ALPAU FP Equity,Paulic Meunerie SA,EUR,FP,FR,Common Stock,3.34,3425.2
+BH EU Equity,Savencia SA,EUR,EU,FR,Common Stock,62,9729.467
+ESK EU Equity,Esker SA,EUR,EU,FR,Common Stock,147.75,15266.07
+FINM FP Equity,Financiere Marjos,EUR,FP,FR,Common Stock,0.148,438.7333
+SGTE FP Equity,Cie Financiere SGTE,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+TOTB GR Equity,TotalEnergies SE,EUR,GR,FR,Common Stock,54.6,37318.77
+ADP EU Equity,Aeroports de Paris,EUR,EU,FR,Common Stock,140.6,163173.4
+ALINN FP Equity,Innelec Multimedia SA,EUR,FP,FR,Common Stock,6.12,1865.5
+PPX TH Equity,Kering SA,EUR,TH,FR,Common Stock,518,1085.333
+RNL GY Equity,Renault SA,EUR,GY,FR,Common Stock,26.52,16137.67
+ALORA FP Equity,Altheora SA,EUR,FP,FR,Common Stock,1.88,1573.5
+ELE FP Equity,Euler Hermes Group SAS,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+TKFTF US Equity,Tarkett SA,USD,US,FR,Common Stock,13.5,6.666666508
+ALIMP FP Equity,Implanet SA,EUR,FP,FR,Common Stock,0.2555,92425.9
+ANTINEUR EU Equity,Antin Infrastructure Partners SA,EUR,EU,FR,Common Stock,29,154180.8
+CS AV Equity,AXA SA,EUR,AV,FR,Common Stock,23.815,0
+CU FP Equity,Club Med SAS,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+ENGQF US Equity,Engie SA,USD,US,FR,Common Stock,13.55,77620.29688
+FIM FP Equity,Fimalac,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+LSS EU Equity,Lectra,EUR,EU,FR,Common Stock,36.1,45277.27
+SGE GR Equity,Societe Generale SA,EUR,GR,FR,Common Stock,25.445,11133.57
+0OMV LN Equity,Stentys,EUR,LN,FR,Common Stock,#N/A N/A,#N/A N/A
+AF TE Equity,Air France-KLM,EUR,TE,FR,Common Stock,1.767,33281.1
+ALNLF FP Equity,Neolife SADIR,EUR,FP,FR,Common Stock,0.1438,35491.63
+DSYA GR Equity,Dassault Systemes SE,EUR,GR,FR,Common Stock,38.915,185.6333
+FNACP S1 Equity,Fnac Darty SA,EUR,S1,FR,Common Stock,#N/A N/A,0
+MMT EU Equity,Metropole Television SA,EUR,EU,FR,Common Stock,16.41,258694.1
+BNSF PZ Equity,Business Interactif SA,EUR,PZ,FR,Common Stock,#N/A N/A,#N/A N/A
+COD LN Equity,Cie de Saint-Gobain,EUR,LN,FR,Common Stock,55.49,221281.5
+MOH GY Equity,LVMH Moet Hennessy Louis Vuitton SE,EUR,GY,FR,Common Stock,606,2172.033
+OSI FP Equity,Ausy SAS,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+PDRDF US Equity,Pernod Ricard SA,USD,US,FR,Common Stock,193.76,782
+AVE FP Equity,Sanofi-Aventis SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+FORSEEUR EU Equity,Forsee Power SACA,EUR,EU,FR,Common Stock,2.94,24181.23
+MLONL FP Equity,Onlineformapro,EUR,FP,FR,Common Stock,5.15,6.2
+PUB EU Equity,Publicis Groupe SA,EUR,EU,FR,Common Stock,51.96,1742959
+225470Z FP Equity,Generali Vie SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+AMDUF US Equity,Amundi SA,USD,US,FR,Common Stock,58.6961,57.76666641
+ANTA FP Equity,Antalis SA/Boulogne-Billancourt,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+ENNV FP Equity,Bouygues SA,EUR,FP,FR,Common Stock,39,5.166667
+GET EU Equity,Getlink SE,EUR,EU,FR,Common Stock,17.965,1791607
+INFE FP Equity,Cie Industrielle et Financiere D'Entreprises,EUR,FP,FR,Common Stock,52,73.43333
+RUINV FP Equity,Rubis SCA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+AFP S4 Equity,Air France-KLM,EUR,S4,FR,Common Stock,1.805,48812.54
+AOMD TH Equity,Alstom SA,EUR,TH,FR,Common Stock,25.98,7383.4
+BNP I2 Equity,Danone SA,EUR,I2,FR,Common Stock,55.225,643335.8
+FDJEUR EU Equity,La Francaise des Jeux SAEM,EUR,EU,FR,Common Stock,33.77,483253.9
+ALRGR FP Equity,Rougier SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+CHDRF US Equity,Christian Dior SE,USD,US,FR,Common Stock,562,6.033333302
+MDM2EUR EU Equity,Maisons du Monde SA,EUR,EU,FR,Common Stock,12.7,289570.8
+SGONV FP Equity,Cie de Saint-Gobain,EUR,FP,FR,Common Stock,55,#N/A N/A
+2X1 TH Equity,Abivax SA,EUR,TH,FR,Common Stock,17.34,551.2667
+ALAQU FP Equity,Aquila,EUR,FP,FR,Common Stock,5.85,284.3667
+ALDMS FP Equity,Diagnostic Medical Systems/Pais,EUR,FP,FR,Common Stock,1.015,7896.5
+EAPIP I2 Equity,Euroapi SA,EUR,I2,FR,Common Stock,13.718,#N/A N/A
+EAPIP T1 Equity,Euroapi SA,EUR,T1,FR,Common Stock,13.72,#N/A N/A
+RNO EU Equity,Renault SA,EUR,EU,FR,Common Stock,26.535,3411848
+SDMHF US Equity,Sartorius Stedim Biotech,USD,US,FR,Common Stock,350.49,319.8666687
+CHSR FP Equity,Chausseria,EUR,FP,FR,Common Stock,4.94,4.033333
+EDL FP Equity,Euro Disney SCA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+KER IM Equity,Kering SA,EUR,IM,FR,Common Stock,515,322.1
+MLSNP FP Equity,SNCF Participations SAS,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+SND GR Equity,Schneider Electric SE,EUR,GR,FR,Common Stock,128.54,2766.233
+ALLHB FP Equity,Les Hotels Baverez,EUR,FP,FR,Common Stock,54,54.93333
+CAP EU Equity,Capgemini SE,EUR,EU,FR,Common Stock,177.25,783882.9
+EDFP EB Equity,Electricite de France SA,EUR,EB,FR,Common Stock,8.284,1463195
+ALBOU FP Equity,Bourrelier Group SA,EUR,FP,FR,Common Stock,41.4,0.1333333
+ALIKO FP Equity,Ikonisys SA,EUR,FP,FR,Common Stock,2.58,565
+EIGBX EZ Equity,EssilorLuxottica SA,GBp,EZ,FR,Common Stock,#N/A N/A,#N/A N/A
+BNP GY Equity,BNP Paribas SA,EUR,GY,FR,Common Stock,53.48,19396.03
+BNPCHF EZ Equity,BNP Paribas SA,CHF,EZ,FR,Common Stock,#N/A N/A,#N/A N/A
+CGG1 EU Equity,CGG SA,EUR,EU,FR,Common Stock,1.062,18146010
+IPN EU Equity,Ipsen SA,EUR,EU,FR,Common Stock,94.25,231681.6
+PSB FP Equity,PSB Industries SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+0LN7 LI Equity,Air France-KLM,EUR,LI,FR,Common Stock,1.756,288197.4
+ALNSE FP Equity,NSE,EUR,FP,FR,Common Stock,22.1,351.7333
+BEN2 EU Equity,Beneteau SA,EUR,EU,FR,Common Stock,11.84,200730.6
+BNPP I2 Equity,BNP Paribas SA,EUR,I2,FR,Common Stock,53.51,1586430
+CRBP FP Equity,Caisse Regionale de Credit Agricole Mutuel Brie Picardie,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+GLE IM Equity,Societe Generale SA,EUR,IM,FR,Common Stock,24.97,3263.533
+GLEP S1 Equity,Societe Generale SA,EUR,S1,FR,Common Stock,25.153,6457.8
+NXI EU Equity,Nexity SA,EUR,EU,FR,Common Stock,27.08,230816.5
+ORIA FP Equity,Fiducial Real Estate SA,EUR,FP,FR,Common Stock,183,1.366667
+BOUYF US Equity,Bouygues SA,USD,US,FR,Common Stock,34.99,207.1666718
+DPAM FP Equity,Les Docks des Petroles d'Ambes SA,EUR,FP,FR,Common Stock,480,6.866667
+ABLDP I2 Equity,ABL Diagnostics SA,EUR,I2,FR,Common Stock,2.75,0
+ANTINP EB Equity,Antin Infrastructure Partners SA,EUR,EB,FR,Common Stock,29.98,8334.833
+CAR TH Equity,Carrefour SA,EUR,TH,FR,Common Stock,19.175,7872.267
+EEN FP Equity,EDF Renouvelables SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+GFT FP Equity,Gameloft SE,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+MMB SE Equity,Lagardere SA,CHF,SE,FR,Common Stock,25.86,0
+OPA GF Equity,Orpea SA,EUR,GF,FR,Common Stock,26.21,3808.4
+PID FP Equity,PARAGON ID SA,EUR,FP,FR,Common Stock,27.3,227.1333
+ALDRP T1 Equity,Delta Drone,EUR,T1,FR,Common Stock,0.001,10.01094
+AMA FP Equity,Camaieu International SAS,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+BVI EU Equity,Bureau Veritas SA,EUR,EU,FR,Common Stock,26.64,1465053
+GPDNF US Equity,Danone SA,USD,US,FR,Common Stock,58.95,2868
+ORANOK EU Equity,Orange SA,NOK,EU,FR,Common Stock,#N/A N/A,#N/A N/A
+TCHP L1 Equity,Technicolor SA,EUR,L1,FR,Common Stock,3.584,99.36667
+BUI FP Equity,Barbara Bui SA,EUR,FP,FR,Common Stock,7.55,30.06667
+BVRDF US Equity,Bureau Veritas SA,USD,US,FR,Common Stock,28.815,5876.733398
+COFAP S1 Equity,Coface SA,EUR,S1,FR,Common Stock,11.6,79.56667
+VIVEF US Equity,Vivendi SE,USD,US,FR,Common Stock,11.99,3381.800049
+220035Z FP Equity,Banque Palatine SA,CHF,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+ALMAK FP Equity,Makheia Group,EUR,FP,FR,Common Stock,0.135,344028
+ALMDP FP Equity,Medesis Pharma SA,EUR,FP,FR,Common Stock,3.4,6065.233
+ALSER FP Equity,Serma Group,EUR,FP,FR,Common Stock,312,0.3333333
+ANTINP IX Equity,Antin Infrastructure Partners SA,EUR,IX,FR,Common Stock,29.82,456.2333
+CIB FP Equity,CIBOX INTER@CTIVE SA,EUR,FP,FR,Common Stock,0.07,559169.2
+EAPIEUR EP Equity,Euroapi SA,EUR,EP,FR,Common Stock,13.73,#N/A N/A
+LEBL FP Equity,Fonciere 7 Invest,EUR,FP,FR,Common Stock,0.885,25.03333
+MLFXO FP Equity,Finaxo Environnement,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+MLNEO FP Equity,Neocom Multimedia,EUR,FP,FR,Common Stock,4.38,176.0333
+PHEV FP Equity,Parts Holding Europe SAS,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+PIXT FP Equity,Pixtech Inc,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+2657314Q EU Equity,Alain Afflelou SA,EUR,EU,FR,Common Stock,#N/A N/A,#N/A N/A
+ACP S1 Equity,Accor SA,EUR,S1,FR,Common Stock,30.075,343.2
+ALPAR FP Equity,Groupe Parot SACA,EUR,FP,FR,Common Stock,2.16,693.7333
+AM EU Equity,Dassault Aviation SA,EUR,EU,FR,Common Stock,159.55,153436
+BERR FP Equity,Financiere et Immobiliere de L'Etang de Berre et de la Mediterranee,EUR,FP,FR,Common Stock,8.6,691.4
+CRARF US Equity,Credit Agricole SA,USD,US,FR,Common Stock,11.12,7187.466797
+EUCAREUR EU Equity,Europcar Mobility Group,EUR,EU,FR,Common Stock,0.507,3949827
+MLHYE FP Equity,Hydro-Exploitations SA,EUR,FP,FR,Common Stock,128,201.3667
+AFR GF Equity,Air France-KLM,EUR,GF,FR,Common Stock,1.761,57735.51
+ERA EU Equity,Eramet SA,EUR,EU,FR,Common Stock,141.3,140556.4
+GL FP Equity,Des Galeries Lafayette SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+RF EU Equity,Eurazeo SE,EUR,EU,FR,Common Stock,71.95,239949
+0ELC LN Equity,GXO Logistics Europe SAS,EUR,LN,FR,Common Stock,#N/A N/A,#N/A N/A
+ACA IM Equity,Credit Agricole SA,EUR,IM,FR,Common Stock,10.274,13632.07
+EXEP BQ Equity,Exel Industries,EUR,BQ,FR,Common Stock,53.6,129.7667
+0LWA GR Equity,Neovacs,EUR,GR,FR,Common Stock,0.173,406.1333
+AFP EB Equity,Air France-KLM,EUR,EB,FR,Common Stock,1.78,2223995
+ALMNG FP Equity,Madvertise,EUR,FP,FR,Common Stock,0.448,5591.633
+ALTAN FP Equity,Le Tanneur et Cie,EUR,FP,FR,Common Stock,4.16,97.43333
+BIMP I2 Equity,BioMerieux,EUR,I2,FR,Common Stock,96.32,47060.57
+BSN GY Equity,Danone SA,EUR,GY,FR,Common Stock,55.26,6379.7
+EKW FP Equity,Ekwateur SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+MLAIR FP Equity,Groupe Airwell,EUR,FP,FR,Common Stock,3.7,98.33334
+AL FP Equity,Societe Alsacienne de Supermarches SA,FRF,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+ALHGREUR EU Equity,Hoffmann Green Cement Technologies SAS,EUR,EU,FR,Common Stock,16,7948.6
+ALHYG FP Equity,Hybrigenics SA,EUR,FP,FR,Common Stock,0.1502,804972.6
+EAPIP S4 Equity,Euroapi SA,EUR,S4,FR,Common Stock,13.71,#N/A N/A
+FCMC FP Equity,Societe Fermiere du Casino Municipal de Cannes,EUR,FP,FR,Common Stock,1250,2.1
+FPG FP Equity,UTI Group SA,EUR,FP,FR,Common Stock,0.52,1123.833
+MGDDF UV Equity,Cie Generale des Etablissements Michelin SCA,USD,UV,FR,Common Stock,128.75,339.1333313
+NRX FP Equity,Naturex,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+SND TH Equity,Schneider Electric SE,EUR,TH,FR,Common Stock,129.06,2269.567
+WO6 GR Equity,Worldline SA/France,EUR,GR,FR,Common Stock,38.08,279.9667
+XCA GR Equity,Credit Agricole SA,EUR,GR,FR,Common Stock,10.25,7968.033
+ANI TH Equity,Amundi SA,EUR,TH,FR,Common Stock,54.7,851.7
+GZF GR Equity,Engie SA,EUR,GR,FR,Common Stock,12.58,34715.9
+MLABO FP Equity,Toutabo,EUR,FP,FR,Common Stock,#N/A N/A,0
+SO EU Equity,Somfy SA,EUR,EU,FR,Common Stock,138.6,37494.7
+ATE1 EU Equity,Alten SA,EUR,EU,FR,Common Stock,123.8,87555.7
+CSNV FP Equity,AXA SA,EUR,FP,FR,Common Stock,23.5,2607.233
+EDF EP Equity,Electricite de France SA,EUR,EP,FR,Common Stock,8.26,4222118
+IY4 GR Equity,Imerys SA,EUR,GR,FR,Common Stock,34.4,51.26667
+LR EU Equity,Legrand SA,EUR,EU,FR,Common Stock,79.96,1147996
+MLTRA FP Equity,Cie des Tramways de Rouen SA,EUR,FP,FR,Common Stock,#N/A N/A,0
+NK EU Equity,Imerys SA,EUR,EU,FR,Common Stock,34.4,137238.2
+QUTEF US Equity,Lumibird,USD,US,FR,Common Stock,#N/A N/A,#N/A N/A
+VETO EU Equity,Vetoquinol SA,EUR,EU,FR,Common Stock,122.7,4590
+YAS GR Equity,Cast SA,EUR,GR,FR,Common Stock,7.38,21.33333
+ABMAF US Equity,Albioma SA,USD,US,FR,Common Stock,#N/A N/A,0
+ALNXT FP Equity,Nextedia,EUR,FP,FR,Common Stock,0.917,30735.23
+AN FP Equity,Societe d'Edition de Canal Plus SAS,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+ANTINEUR EP Equity,Antin Infrastructure Partners SA,EUR,EP,FR,Common Stock,29,97719.87
+ANTINP S1 Equity,Antin Infrastructure Partners SA,EUR,S1,FR,Common Stock,#N/A N/A,#N/A N/A
+CO EU Equity,Casino Guichard Perrachon SA,EUR,EU,FR,Common Stock,18.08,485489.3
+EON MM Equity,Faurecia SE,MXN,MM,FR,Common Stock,1150.68,0.1333333
+KORI EU Equity,Korian SA,EUR,EU,FR,Common Stock,19.535,427802.3
+MLVER FP Equity,Verney-Carron SA,EUR,FP,FR,Common Stock,6.45,4.633333
+PIEJF US Equity,Rothschild & Co,USD,US,FR,Common Stock,38.51,59.96666718
+RNL TH Equity,Renault SA,EUR,TH,FR,Common Stock,26.535,18486.6
+SND GY Equity,Schneider Electric SE,EUR,GY,FR,Common Stock,128.46,2001.433
+81E GF Equity,AgroGeneration,EUR,GF,FR,Common Stock,0.113,60503.33
+8ZU GR Equity,Antin Infrastructure Partners SA,EUR,GR,FR,Common Stock,28.94,31.33333
+ABLDP EB Equity,ABL Diagnostics SA,EUR,EB,FR,Common Stock,2.75,0
+ALDRP TQ Equity,Delta Drone,EUR,TQ,FR,Common Stock,#N/A N/A,#N/A N/A
+CRI EU Equity,Chargeurs SA,EUR,EU,FR,Common Stock,18.47,59654.9
+EDFJPY EU Equity,Electricite de France SA,JPY,EU,FR,Common Stock,#N/A N/A,#N/A N/A
+IXA GR Equity,IGE + XAO,EUR,GR,FR,Common Stock,206,0.8666667
+KAZIT S1 Equity,Orchestra-Premaman SA,EUR,S1,FR,Common Stock,#N/A N/A,#N/A N/A
+PONGF UV Equity,Atari SA,USD,UV,FR,Common Stock,0.19,47654.30078
+PROAC FP Equity,Proactis Sarl,EUR,FP,FR,Common Stock,0.137,929.3333
+SANNV FP Equity,Sanofi,EUR,FP,FR,Common Stock,95,98.66666
+ALINS FP Equity,Intrasense SAS,EUR,FP,FR,Common Stock,0.4045,46825.57
+ALTTI FP Equity,Travel Technology Interactive SA,EUR,FP,FR,Common Stock,2.2,70.3
+CRBP2 EU Equity,Caisse Regionale de Credit Agricole Mutuel Brie Picardie,EUR,EU,FR,Common Stock,20.21,6512.133
+SANP BQ Equity,Sanofi,EUR,BQ,FR,Common Stock,100.38,26109.9
+SFCA FP Equity,Societe francaise de Casinos,EUR,FP,FR,Common Stock,1.69,174.3333
+225494Z FP Equity,Portzamparc Societe de Bourse SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+ALMAR FP Equity,Mare Nostrum SAS,EUR,FP,FR,Common Stock,3.02,763
+AXA IM Equity,AXA SA,EUR,IM,FR,Common Stock,23.815,2721.867
+BON1 EU Equity,Bonduelle SCA,EUR,EU,FR,Common Stock,16.72,28457.43
+DLCX FP Equity,Delachaux Group SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+ETL EU Equity,Eutelsat Communications SA,EUR,EU,FR,Common Stock,11.15,752350.4
+GZPZF US Equity,Gaztransport Et Technigaz SA,USD,US,FR,Common Stock,#N/A N/A,#N/A N/A
+PPX GR Equity,Kering SA,EUR,GR,FR,Common Stock,516.3,705.1334
+RNL GR Equity,Renault SA,EUR,GR,FR,Common Stock,26.545,17900.1
+SMCPEUR EU Equity,SMCP SA,EUR,EU,FR,Common Stock,6.483,183050.2
+SU IM Equity,Schneider Electric SE,EUR,IM,FR,Common Stock,127.88,152.1
+6PV GS Equity,CMG Clean Tech SA,EUR,GS,FR,Common Stock,6.6,226.1333
+ATO EU Equity,Atos SE,EUR,EU,FR,Common Stock,23.935,1804222
+CGD FP Equity,Cegid Group SASU,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+CSP I2 Equity,AXA SA,EUR,I2,FR,Common Stock,23.715,1971348
+ELISP EB Equity,Elis SA,EUR,EB,FR,Common Stock,14.826,189502.7
+HOP S1 Equity,Thales SA,EUR,S1,FR,Common Stock,117.975,135.2333
+JCDXF US Equity,JCDecaux SA,USD,US,FR,Common Stock,18.7,17.20000076
+ORP EB Equity,L'Oreal SA,EUR,EB,FR,Common Stock,324.911,343370.3
+SG FP Equity,Societe de Fabrication d'Instruments de Mesure SA,EUR,FP,FR,Common Stock,#N/A N/A,#N/A N/A
+SGOB BB Equity,Cie de Saint-Gobain,EUR,BB,FR,Common Stock,#N/A N/A,#N/A N/A
+ALIMO FP Equity,Groupimo,EUR,FP,FR,Common Stock,1.96,133.2
+AOMD GR Equity,Alstom SA,EUR,GR,FR,Common Stock,25.9,2366.533
+EDFP IX Equity,Electricite de France SA,EUR,IX,FR,Common Stock,8.384,905.3
+FGRP S1 Equity,Eiffage SA,EUR,S1,FR,Common Stock,92.55,129.5667
+FII EU Equity,LISI,EUR,EU,FR,Common Stock,20.5,36323.04
+MLMDV FP Equity,Medical Devices Venture SASU,EUR,FP,FR,Common Stock,12.7,1
+NROP I2 Equity,Neurones,EUR,I2,FR,Common Stock,36.55,367.2667
